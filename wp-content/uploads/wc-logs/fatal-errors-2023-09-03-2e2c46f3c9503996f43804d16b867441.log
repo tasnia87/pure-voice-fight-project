@@ -1,0 +1,10 @@
+2023-09-03T05:49:31+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "remove_views_select2" not found or invalid function name in /var/www/html/purevoicefight/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /var/www/html/purevoicefight/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /var/www/html/purevoicefight/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /var/www/html/purevoicefight/wp-admin/admin-header.php(118): do_action()
+#3 /var/www/html/purevoicefight/wp-admin/edit-form-advanced.php(425): require_once('...')
+#4 /var/www/html/purevoicefight/wp-admin/post.php(206): require('...')
+#5 {main}
+  thrown in /var/www/html/purevoicefight/wp-includes/class-wp-hook.php on line 310
+

@@ -1,0 +1,15 @@
+2023-08-31T10:14:42+00:00 CRITICAL Uncaught TemplateDoesNotExistException in /var/www/html/purevoicefight/wp-content/plugins/all-in-one-wp-migration/lib/vendor/bandar/bandar/lib/Bandar.php:148
+Stack trace:
+#0 /var/www/html/purevoicefight/wp-content/plugins/all-in-one-wp-migration/lib/vendor/bandar/bandar/lib/Bandar.php(217): Bandar::setTemplate()
+#1 /var/www/html/purevoicefight/wp-content/plugins/all-in-one-wp-migration/lib/model/class-ai1wm-template.php(64): Bandar::getTemplateContent()
+#2 /var/www/html/purevoicefight/wp-content/plugins/all-in-one-wp-migration/lib/controller/class-ai1wm-main-controller.php(668): Ai1wm_Template::get_content()
+#3 /var/www/html/purevoicefight/wp-includes/class-wp-hook.php(310): Ai1wm_Main_Controller->admin_menu()
+#4 /var/www/html/purevoicefight/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /var/www/html/purevoicefight/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /var/www/html/purevoicefight/wp-admin/includes/menu.php(161): do_action()
+#7 /var/www/html/purevoicefight/wp-admin/menu.php(420): require_once('...')
+#8 /var/www/html/purevoicefight/wp-admin/admin.php(158): require('...')
+#9 /var/www/html/purevoicefight/wp-admin/index.php(10): require_once('...')
+#10 {main}
+  thrown in /var/www/html/purevoicefight/wp-content/plugins/all-in-one-wp-migration/lib/vendor/bandar/bandar/lib/Bandar.php on line 148
+

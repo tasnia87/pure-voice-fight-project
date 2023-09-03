@@ -1,0 +1,4083 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: university\n"
+"POT-Creation-Date: 2018-03-30 11:28+0700\n"
+"PO-Revision-Date: 2018-03-30 11:29+0700\n"
+"Last-Translator: \n"
+"Language-Team: CactusThemes <hi@cactusthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: plugins/u-shortcodes/shortcodes/monthview/month-day.php:27
+msgid " Course"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/monthview/month-day.php:32
+msgid " Courses"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/monthview/month-day.php:26
+msgid " Event"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/monthview/month-day.php:31
+msgid " Events"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/blog.php:380
+msgid "\"Detail\" text"
+msgstr ""
+
+#: inc/page-metadata.php:434
+#: plugins/u-shortcodes/shortcodes/blog.php:373
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:186
+msgid "\"More\" link"
+msgstr ""
+
+#: inc/page-metadata.php:425
+#: plugins/u-shortcodes/shortcodes/blog.php:366
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:179
+msgid "\"More\" text"
+msgstr ""
+
+#: u-course/course-listing.php:115
+#: plugins/u-course/templates/course-listing.php:57
+#: plugins/u-shortcodes/shortcodes/blog.php:182
+msgid "% COMMENTS"
+msgstr ""
+
+#. 1: date, 2: time
+#: inc/core/theme-core.php:225
+#, php-format
+msgid "%1$s  at %2$s "
+msgstr ""
+
+#: u-member/member-course.php:72
+#: u-member/member-course.php:150
+#, php-format
+msgid "%d Days"
+msgstr ""
+
+#: u-member/member-course.php:76
+#: u-member/member-course.php:154
+#, php-format
+msgid "%d Hours"
+msgstr ""
+
+#: u-member/member-course.php:82
+#: u-member/member-course.php:160
+#, php-format
+msgid "%d Weeks"
+msgstr ""
+
+#: comments.php:50
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: inc/core/theme-core.php:189
+msgid "(Edit)"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:146
+msgid "(number) Height of banner in pixels"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:139
+msgid "(number) Width of banner in pixels, only work with Boxed style"
+msgstr ""
+
+#: inc/page-metadata.php:125
+msgid "(Optional) Enter custom height (number of pixel, ex: 400)"
+msgstr ""
+
+#. used between list items, there is a space after the comma.
+#: inc/core/theme-core.php:483
+#: inc/core/theme-core.php:486
+msgid ", "
+msgstr ""
+
+#: u-course/course-listing.php:115
+#: plugins/u-course/templates/course-listing.php:57
+#: plugins/u-shortcodes/shortcodes/blog.php:182
+msgid "0 COMMENTS"
+msgstr ""
+
+#: content-single.php:42
+msgid "0 Comments"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/blog.php:393
+msgid "1 Columns"
+msgstr ""
+
+#: u-course/course-listing.php:115
+#: plugins/u-course/templates/course-listing.php:57
+#: plugins/u-shortcodes/shortcodes/blog.php:182
+msgid "1 COMMENT"
+msgstr ""
+
+#: content-single.php:42
+msgid "1 Comment"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/blog.php:392
+msgid "2 Columns"
+msgstr ""
+
+#: plugins/u-member/member-shortcode.php:196
+msgid "3/12 width"
+msgstr ""
+
+#: plugins/u-member/member-shortcode.php:197
+msgid "4/12 width"
+msgstr ""
+
+#: 404.php:24
+#: functions.php:444
+#: inc/theme-options.php:55
+msgid "404"
+msgstr ""
+
+#: inc/core/theme-core.php:61
+msgid "<span class=\"meta-nav\">&larr;</span> Newer posts"
+msgstr ""
+
+#: plugins/u-member/u-member.php:20
+msgid ">Enable Department filter bar"
+msgstr ""
+
+#: inc/widgets/divider.php:19
+msgid "A divider"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A multi-purposes theme, suitable for colleagues, training centres, event "
+"organizers, business, shopping site"
+msgstr ""
+
+#: inc/theme-options.php:580
+msgid "About Author"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:355
+msgid "Add custom Metadata"
+msgstr ""
+
+#: plugins/u-course/u-course.php:312
+#: plugins/u-course/u-course.php:313
+msgid "Add New Course"
+msgstr ""
+
+#: plugins/u-event/u-event.php:320
+#: plugins/u-event/u-event.php:321
+msgid "Add New Event"
+msgstr ""
+
+#: plugins/u-member/u-member.php:233
+#: plugins/u-member/u-member.php:234
+msgid "Add New Member"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:153
+#: plugins/u-projects/u-projects.php:154
+msgid "Add New Project"
+msgstr ""
+
+#: inc/theme-options.php:923
+msgid "Add Social Account"
+msgstr ""
+
+#: u-course/single-course-detail.php:33
+#: u-event/single-event-detail.php:68
+#: plugins/u-course/templates/single-course-detail.php:32
+#: plugins/u-event/templates/single-event-detail.php:63
+msgid "Address"
+msgstr ""
+
+#: plugins/u-course/u-course.php:471
+#: plugins/u-event/u-event.php:511
+msgid "Address:"
+msgstr ""
+
+#: functions.php:779
+#: functions.php:789
+#: u-member/member-listing.php:44
+#: u-project/project-listing.php:41
+#: u-project/project-listing.php:51
+#: plugins/u-course/widget/course-search.php:49
+#: plugins/u-course/widget/course-search.php:51
+msgid "All"
+msgstr ""
+
+#: plugins/u-course/u-course.php:316
+msgid "All Courses"
+msgstr ""
+
+#: plugins/u-event/u-event.php:489
+msgid "All Day Event"
+msgstr ""
+
+#: plugins/u-event/u-event.php:324
+msgid "All Events"
+msgstr ""
+
+#: plugins/u-member/u-member.php:237
+msgid "All Members"
+msgstr ""
+
+#: inc/core/skeleton-core.php:98
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:157
+msgid "All Projects"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:17
+msgid "All projects "
+msgstr ""
+
+#: plugins/u-member/u-member.php:20
+msgid "Alphabet filter bar"
+msgstr ""
+
+#: plugins/u-member/u-member.php:20
+msgid "Alphabetically"
+msgstr ""
+
+#: plugins/u-shortcodes/university-shortcodes.php:164
+msgid "Animation Delay"
+msgstr ""
+
+#: functions.php:354
+msgid "Appear above Page Content"
+msgstr ""
+
+#: functions.php:372
+msgid "Appear at Page Footer"
+msgstr ""
+
+#: functions.php:363
+msgid "Appear below page content"
+msgstr ""
+
+#: inc/theme-options.php:100
+msgid "Appear in footer"
+msgstr ""
+
+#: functions.php:307
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:56
+msgid "Apr"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:43
+msgid "April"
+msgstr ""
+
+#: inc/theme-options.php:51
+msgid "Archives"
+msgstr ""
+
+#: header.php:66
+#: header.php:68
+#: header.php:70
+#: page-templates/demo-nav-2.php:85
+#: page-templates/demo-nav-2.php:87
+#: page-templates/demo-nav-2.php:89
+#: page-templates/demo-nav-3.php:85
+#: page-templates/demo-nav-3.php:87
+#: page-templates/demo-nav-3.php:89
+msgid "Archives for "
+msgstr ""
+
+#: inc/page-metadata.php:247
+#: plugins/u-course/course-list-table.php:142
+#: plugins/u-event/event-list-table.php:148
+#: plugins/u-member/member-shortcode.php:224
+#: plugins/u-shortcodes/shortcodes/blog.php:281
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:261
+#: plugins/u-shortcodes/shortcodes/post-grid.php:436
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:142
+msgid "ASC"
+msgstr ""
+
+#: u-event/classic-list-item.php:72
+#: u-event/grid-list-item.php:68
+#: plugins/u-event/templates/classic-list-item.php:58
+#: plugins/u-event/templates/grid-list-item.php:54
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:159
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:162
+#: plugins/u-shortcodes/shortcodes/post-grid.php:196
+#: plugins/u-shortcodes/shortcodes/post-grid.php:199
+msgid "At "
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-grid.php:396
+msgid "Attachment"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:60
+msgid "Aug"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:47
+msgid "August"
+msgstr ""
+
+#: functions.php:443
+#: inc/page-metadata.php:272
+#: inc/theme-options.php:567
+#: plugins/u-course/course-functions.php:18
+#: plugins/u-event/event-functions.php:12
+#: plugins/u-member/member-shortcode.php:237
+#: plugins/u-shortcodes/shortcodes/blog.php:294
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:274
+#: plugins/u-shortcodes/shortcodes/post-grid.php:449
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:155
+msgid "Author"
+msgstr ""
+
+#: header.php:64
+#: page-templates/demo-nav-2.php:83
+#: page-templates/demo-nav-3.php:83
+msgid "Author: "
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/testimonial.php:77
+msgid "Auto Scroll"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/testimonial.php:83
+msgid "Auto scroll Testimonials"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/testimonial.php:113
+msgid "Avatar"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/testimonial.php:116
+msgid "Avatar of person"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/compare-table.php:143
+#: plugins/u-shortcodes/shortcodes/countdown_clock.php:143
+msgid "Background Color"
+msgstr ""
+
+#: inc/page-metadata.php:80
+#: inc/page-metadata.php:97
+msgid "Background Image"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/button.php:98
+msgid "Big"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+#: plugins/u-event/u-event.php:481
+msgid "Big Feature Image"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:28
+#: woocommerce/checkout/form-checkout.php:50
+msgid "Billing Info"
+msgstr ""
+
+#: functions.php:470
+msgid "Blog"
+msgstr ""
+
+#: inc/page-metadata.php:465
+msgid "Blog(latest post)"
+msgstr ""
+
+#: functions.php:361
+msgid "Bottom Sidebar"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:130
+msgid "Boxed"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/button.php:130
+msgid "Button Color"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/button.php:66
+msgid "Button Link"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/button.php:94
+msgid "Button Size"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/button.php:59
+msgid "Button Text"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:26
+msgid "Buy"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/monthview/events-list.php:48
+#: plugins/u-shortcodes/shortcodes/monthview/events-list.php:55
+msgid "BUY TICKET"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:74
+msgid "BUY TICKET "
+msgstr ""
+
+#: content-single.php:33
+#: loop-item.php:17
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:166
+#: plugins/u-shortcodes/shortcodes/post-grid.php:203
+msgid "By "
+msgstr ""
+
+#: inc/theme-options.php:87
+msgid ""
+"By default, University generates its own SEO meta tags (for example: "
+"Facebook Meta Tags). If you are using another SEO plugin like YOAST or a "
+"Facebook plugin, you can turn off this option"
+msgstr ""
+
+#. Author of the theme
+msgid "CactusThemes"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:194
+msgid "Calendar"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:137
+msgid "Calendar View"
+msgstr ""
+
+#: plugins/u-event/u-event.php:493
+msgid "Call to action"
+msgstr ""
+
+#: plugins/u-course/u-course.php:479
+msgid "Call to Action Text"
+msgstr ""
+
+#: inc/theme-options.php:453
+msgid "Callout Text"
+msgstr ""
+
+#: inc/core/theme-core.php:306
+msgid "Cancel reply"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:35
+msgid "Cart Subtotal"
+msgstr ""
+
+#: inc/theme-options.php:606
+#: u-course/single-course-detail.php:39
+#: u-event/single-event-detail.php:86
+#: plugins/u-course/course-list-table.php:164
+#: plugins/u-event/event-list-table.php:170
+#: plugins/u-event/u-event.php:18
+#: plugins/u-event/u-event.php:18
+#: plugins/u-course/templates/single-course-detail.php:37
+#: plugins/u-shortcodes/shortcodes/calendar.php:231
+msgid "Categories"
+msgstr ""
+
+#: plugins/u-course/widget/latest-course.php:180
+#: plugins/u-event/widget/latest-event.php:208
+#: plugins/u-projects/widget/latest-event.php:205
+msgid "Categories : (ID or Slug. Ex: 1, 2)"
+msgstr ""
+
+#: inc/widgets/latest-post-type.php:147
+msgid "Categories:"
+msgstr ""
+
+#: inc/page-metadata.php:189
+#: plugins/u-shortcodes/shortcodes/blog.php:247
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:220
+#: plugins/u-shortcodes/shortcodes/post-grid.php:402
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:108
+msgid "Category"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/textbox.php:124
+msgid "Center"
+msgstr ""
+
+#: plugins/u-course/u-course.php:20
+msgid ""
+"Change course categories slug. Remember to save the permalink settings again "
+"in Settings > Permalinks"
+msgstr ""
+
+#: plugins/u-course/u-course.php:20
+msgid ""
+"Change course slug. Remember to save the permalink settings again in "
+"Settings > Permalinks"
+msgstr ""
+
+#: plugins/u-member/u-member.php:20
+msgid ""
+"Change department slug. Remember to save the permalink settings again in "
+"Settings > Permalinks"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid ""
+"Change event categories slug. Remember to save the permalink settings again "
+"in Settings > Permalinks"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid ""
+"Change event slug. Remember to save the permalink settings again in Settings "
+"> Permalinks"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid ""
+"Change event tag slug. Remember to save the permalink settings again in "
+"Settings > Permalinks"
+msgstr ""
+
+#: plugins/u-member/u-member.php:20
+msgid ""
+"Change member slug. Remember to save the permalink settings again in "
+"Settings > Permalinks"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:17
+msgid ""
+"Change project categories slug. Remember to save the permalink settings "
+"again in Settings > Permalinks"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:17
+msgid ""
+"Change project slug. Remember to save the permalink settings again in "
+"Settings > Permalinks"
+msgstr ""
+
+#: header-navigation.php:40
+#: page-templates/demo-nav-3.php:146
+msgid "Check Out"
+msgstr ""
+
+#: inc/page-metadata.php:98
+msgid "Choose background image"
+msgstr ""
+
+#: inc/theme-options.php:319
+msgid "Choose Footer background color (Default is Main color 2)"
+msgstr ""
+
+#: plugins/u-course/u-course.php:473
+#: plugins/u-event/u-event.php:492
+#: plugins/u-member/u-member.php:420
+msgid "Choose from members"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:199
+msgid "Choose link target"
+msgstr ""
+
+#: inc/theme-options.php:293
+msgid "Choose Main color 1 (Default is light blue #46a5e5)"
+msgstr ""
+
+#: inc/theme-options.php:306
+msgid "Choose Main color 2 (Default is dark blue #17376e)"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/blog.php:243
+#: plugins/u-shortcodes/shortcodes/calendar.php:211
+#: plugins/u-shortcodes/shortcodes/countdown_clock.php:137
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:216
+#: plugins/u-shortcodes/shortcodes/post-grid.php:398
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:104
+msgid "Choose post type"
+msgstr ""
+
+#: inc/page-metadata.php:160
+msgid "Choose Post Type for Overlay Content"
+msgstr ""
+
+#: functions.php:726
+msgid ""
+"Choose row scheme (in Dark-div, default text, buttons will have white color)"
+msgstr ""
+
+#: functions.php:694
+msgid ""
+"Choose row style (In page template Front Page, this style is used for row's "
+"content)"
+msgstr ""
+
+#: inc/page-metadata.php:73
+msgid ""
+"Choose type of header background (Drag a widget into Front Page Sidebar for "
+"Custom content)"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:17
+msgid "Choose which project to navigate when in a single project page"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:37
+msgid "Choose your "
+msgstr ""
+
+#: u-course/single-course-meta.php:61
+#: u-event/single-event-meta.php:37
+#: plugins/u-event/templates/single-event-meta.php:37
+msgid "CHOOSE YOUR SEAT"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid "Classic"
+msgstr ""
+
+#: plugins/u-member/u-member.php:168
+msgid "Clicks/Views"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/compare-table.php:134
+msgid "Color"
+msgstr ""
+
+#: inc/theme-options.php:31
+msgid "Colors"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/compare-table.php:117
+msgid "Column Title"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/blog.php:389
+msgid "Columns"
+msgstr ""
+
+#: inc/core/theme-core.php:297
+msgid "Comment"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-grid.php:256
+#: plugins/u-shortcodes/shortcodes/post-grid.php:282
+msgid "COMMENT (1)"
+msgstr ""
+
+#: inc/theme-options.php:632
+msgid "Comment Count"
+msgstr ""
+
+#: inc/page-metadata.php:302
+#: plugins/u-member/member-shortcode.php:243
+#: plugins/u-shortcodes/shortcodes/blog.php:300
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:280
+#: plugins/u-shortcodes/shortcodes/post-grid.php:455
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:161
+msgid "Comment count"
+msgstr ""
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: content-featured-image.php:26
+#: u-project/project-listing.php:121
+#: u-project/single-project.php:45
+#: u-project/single-project.php:326
+#: plugins/u-shortcodes/shortcodes/post-grid.php:256
+#: plugins/u-shortcodes/shortcodes/post-grid.php:282
+msgid "COMMENTS"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-grid.php:256
+#: plugins/u-shortcodes/shortcodes/post-grid.php:282
+msgid "COMMENTS (%)"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/compare-table.php:109
+msgid "Comparetable"
+msgstr ""
+
+#: plugins/u-event/u-event.php:512
+msgid "Contact Number of event"
+msgstr ""
+
+#: inc/page-metadata.php:453
+#: plugins/u-projects/u-projects.php:359
+msgid "Content"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/textbox.php:172
+msgid "Content color"
+msgstr ""
+
+#: inc/theme-options.php:397
+msgid "Content Letter Spacing"
+msgstr ""
+
+#: inc/page-metadata.php:51
+#: inc/post-metadata.php:51
+#: inc/post-metadata.php:111
+#: plugins/u-course/u-course.php:464
+#: plugins/u-event/u-event.php:480
+#: plugins/u-member/u-member.php:387
+#: plugins/u-projects/u-projects.php:312
+msgid "Content Padding"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/textbox.php:110
+msgid "Content text"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:85
+#: woocommerce/checkout/form-shipping.php:44
+msgid "Continue"
+msgstr ""
+
+#: plugins/u-projects/templates/single-project.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/theme-options.php:99
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/page-metadata.php:216
+#: plugins/u-member/member-shortcode.php:211
+#: plugins/u-shortcodes/shortcodes/blog.php:268
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:241
+#: plugins/u-shortcodes/shortcodes/post-grid.php:423
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:129
+msgid "Count"
+msgstr ""
+
+#: inc/page-metadata.php:177
+#: plugins/u-course/u-course.php:310
+#: plugins/u-course/u-course.php:311
+#: plugins/u-shortcodes/shortcodes/blog.php:240
+#: plugins/u-shortcodes/shortcodes/calendar.php:209
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:213
+#: plugins/u-shortcodes/shortcodes/post-grid.php:394
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:101
+#: plugins/u-shortcodes/shortcodes/monthview/events-list.php:20
+#: plugins/u-shortcodes/shortcodes/monthview/events-list.php:28
+msgid "Course"
+msgstr ""
+
+#: plugins/u-course/u-course.php:20
+msgid "Course Categories Slug"
+msgstr ""
+
+#: functions.php:1027
+msgid "Course Details"
+msgstr ""
+
+#: plugins/u-course/u-course.php:472
+msgid "Course duration info"
+msgstr ""
+
+#: plugins/u-course/u-course.php:469
+msgid "Course ID"
+msgstr ""
+
+#: plugins/u-course/u-course.php:488
+msgid "Course Info"
+msgstr ""
+
+#: plugins/u-course/course-list-table.php:110
+msgid "Course list table"
+msgstr ""
+
+#: plugins/u-course/u-course.php:20
+msgid "Course Listing Order"
+msgstr ""
+
+#: plugins/u-course/u-course.php:20
+msgid "Course Listing Order Bar"
+msgstr ""
+
+#: u-course/course-categories.php:43
+#: u-member/member-course.php:219
+#: u-member/member-course.php:278
+#: u-member/member-course.php:335
+#: plugins/u-course/course-list-table.php:70
+#: plugins/u-course/templates/course-categories.php:28
+#: plugins/u-course/templates/course-search-result.php:20
+#: plugins/u-member/templates/member-course.php:99
+msgid "Course Name"
+msgstr ""
+
+#: u-member/member-course.php:336
+msgid "Course Price Type"
+msgstr ""
+
+#: plugins/u-course/u-course.php:20
+msgid "Course Slug"
+msgstr ""
+
+#: u-course/course-listing.php:9
+#: u-member/member-course.php:212
+#: plugins/u-course/templates/course-listing.php:9
+msgid "Courses"
+msgstr ""
+
+#: functions.php:391
+msgid "Courses Sidebar"
+msgstr ""
+
+#: u-course/single-course-meta.php:43
+#: plugins/u-course/templates/single-course-meta.php:42
+msgid "CREDIT:"
+msgstr ""
+
+#: plugins/u-course/u-course.php:474
+msgid "Credit:"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/compare-table.php:125
+msgid "CSS Class"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/button.php:85
+#: plugins/u-shortcodes/shortcodes/textbox.php:96
+msgid "Curent Tab"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/price.php:51
+msgid "Currency"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:196
+msgid "Current"
+msgstr ""
+
+#: inc/theme-options.php:145
+msgid "Custom Code"
+msgstr ""
+
+#: inc/page-metadata.php:90
+msgid "Custom Content"
+msgstr ""
+
+#: inc/theme-options.php:132
+msgid "Custom CSS"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:351
+msgid "Custom Metadata"
+msgstr ""
+
+#: inc/theme-options.php:918
+msgid "Custom Social Account"
+msgstr ""
+
+#: inc/core/theme-core.php:657
+msgid "Custom Variation"
+msgstr ""
+
+#: inc/theme-options.php:484
+#: plugins/u-shortcodes/shortcodes/textbox.php:137
+msgid "Dark"
+msgstr ""
+
+#: functions.php:724
+msgid "Dark-div"
+msgstr ""
+
+#: inc/page-metadata.php:262
+#: plugins/u-member/member-shortcode.php:235
+#: plugins/u-shortcodes/shortcodes/blog.php:292
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:272
+#: plugins/u-shortcodes/shortcodes/post-grid.php:447
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:153
+msgid "Date"
+msgstr ""
+
+#: plugins/u-course/u-course.php:468
+msgid "Date Format: Y/m/d"
+msgstr ""
+
+#: inc/theme-options.php:250
+msgid "DateTime format for items in shortcodes"
+msgstr ""
+
+#: inc/theme-options.php:249
+msgid "DateTime format for shortcode"
+msgstr ""
+
+#: u-member/member-course.php:363
+#: plugins/u-shortcodes/shortcodes/countdown_clock.php:104
+msgid "Day"
+msgstr ""
+
+#: u-member/member-course.php:365
+msgid "Days"
+msgstr ""
+
+#: inc/theme-options.php:263
+msgid "DD/MM"
+msgstr ""
+
+#: inc/theme-options.php:283
+msgid "DD/MM/YYYY"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:64
+msgid "Dec"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:51
+msgid "December"
+msgstr ""
+
+#: functions.php:723
+#: inc/page-metadata.php:29
+#: inc/post-metadata.php:29
+#: inc/post-metadata.php:89
+#: plugins/u-course/u-course.php:463
+#: plugins/u-event/u-event.php:18
+#: plugins/u-event/u-event.php:479
+#: plugins/u-event/u-event.php:481
+#: plugins/u-member/u-member.php:20
+#: plugins/u-member/u-member.php:386
+#: plugins/u-projects/u-projects.php:311
+#: plugins/u-shortcodes/shortcodes/textbox.php:135
+msgid "Default"
+msgstr ""
+
+#: functions.php:691
+msgid "Default (In container)"
+msgstr ""
+
+#: inc/page-metadata.php:426
+msgid "Default is \"MORE NEWS\""
+msgstr ""
+
+#: inc/theme-options.php:233
+msgid "Default is Black"
+msgstr ""
+
+#: inc/theme-options.php:241
+msgid "Default is White"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:17
+msgid "Default Metadata"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:17
+msgid "Define default metadata for all projects, ex: Client, Services..."
+msgstr ""
+
+#. Name of the template
+msgid "Demo Blog Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Demo Nav Style 2"
+msgstr ""
+
+#. Name of the template
+msgid "Demo Nav Style 3"
+msgstr ""
+
+#: plugins/u-member/member-shortcode.php:204
+msgid "Department"
+msgstr ""
+
+#: plugins/u-member/u-member.php:20
+msgid "Department filter bar"
+msgstr ""
+
+#: inc/page-metadata.php:242
+#: plugins/u-course/course-list-table.php:143
+#: plugins/u-event/event-list-table.php:149
+#: plugins/u-member/member-shortcode.php:223
+#: plugins/u-shortcodes/shortcodes/blog.php:280
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:260
+#: plugins/u-shortcodes/shortcodes/post-grid.php:435
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:141
+msgid "DESC"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-grid.php:341
+msgid "Description"
+msgstr ""
+
+#: loop-item.php:20
+msgid "DETAIL"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:28
+msgid "Detail Infomation"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:52
+#: woocommerce/checkout/form-shipping.php:24
+msgid "Details"
+msgstr ""
+
+#: u-course/course-listing.php:114
+#: plugins/u-course/templates/course-listing.php:56
+msgid "Details "
+msgstr ""
+
+#: u-event/classic-list-item.php:78
+#: plugins/u-event/templates/classic-list-item.php:62
+msgid "DETAILS  "
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Details is different from Billing info."
+msgstr ""
+
+#: inc/theme-options.php:215
+#: plugins/u-course/u-course.php:20
+#: plugins/u-event/u-event.php:18
+#: plugins/u-event/u-event.php:18
+#: plugins/u-event/u-event.php:18
+#: plugins/u-event/u-event.php:18
+#: plugins/u-projects/u-projects.php:17
+msgid "Disable"
+msgstr ""
+
+#: inc/theme-options.php:454
+msgid "Display on Main Navigation, used with Style 3"
+msgstr ""
+
+#: plugins/u-course/u-course.php:478
+msgid "Download Button Text"
+msgstr ""
+
+#: plugins/u-course/u-course.php:477
+msgid "Download Button URL"
+msgstr ""
+
+#: plugins/u-course/u-course.php:477
+msgid "Download URL for course documents. If empty, button is invisible"
+msgstr ""
+
+#: plugins/u-member/u-member.php:409
+msgid "Dribbble:"
+msgstr ""
+
+#: u-course/course-categories.php:44
+#: u-member/member-course.php:46
+#: u-member/member-course.php:126
+#: u-member/member-course.php:220
+#: u-member/member-course.php:279
+#: plugins/u-course/course-list-table.php:71
+#: plugins/u-course/templates/course-categories.php:29
+#: plugins/u-course/templates/course-search-result.php:21
+#: plugins/u-member/templates/member-course.php:30
+#: plugins/u-member/templates/member-course.php:100
+msgid "Duration"
+msgstr ""
+
+#: functions.php:1042
+#: u-course/single-course-meta.php:35
+#: plugins/u-course/templates/single-course-meta.php:34
+msgid "DURATION:"
+msgstr ""
+
+#: plugins/u-course/u-course.php:472
+msgid "Duration:"
+msgstr ""
+
+#: inc/core/theme-core.php:228
+msgid "Edit"
+msgstr ""
+
+#: plugins/u-course/u-course.php:314
+msgid "Edit Course"
+msgstr ""
+
+#: plugins/u-event/u-event.php:322
+msgid "Edit Event"
+msgstr ""
+
+#: plugins/u-member/u-member.php:235
+msgid "Edit Member"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:155
+msgid "Edit Project"
+msgstr ""
+
+#: u-event/single-event-detail.php:156
+#: inc/core/theme-core.php:279
+#: plugins/u-event/templates/single-event-detail.php:96
+msgid "Email"
+msgstr ""
+
+#: plugins/u-event/u-event.php:514
+msgid "Email Contact of event"
+msgstr ""
+
+#: inc/theme-options.php:1054
+msgid "Email Share"
+msgstr ""
+
+#: functions.php:636
+msgid "Email this"
+msgstr ""
+
+#: plugins/u-event/u-event.php:514
+#: plugins/u-member/u-member.php:400
+msgid "Email:"
+msgstr ""
+
+#: inc/theme-options.php:220
+#: plugins/u-course/u-course.php:20
+#: plugins/u-event/u-event.php:18
+#: plugins/u-event/u-event.php:18
+#: plugins/u-event/u-event.php:18
+#: plugins/u-event/u-event.php:18
+#: plugins/u-projects/u-projects.php:17
+msgid "Enable"
+msgstr ""
+
+#: inc/theme-options.php:581
+msgid "Enable About Author info"
+msgstr ""
+
+#: plugins/u-member/u-member.php:20
+msgid "Enable Alphabet filter bar"
+msgstr ""
+
+#: inc/theme-options.php:568
+msgid "Enable Author info"
+msgstr ""
+
+#: inc/theme-options.php:607
+#: inc/theme-options.php:620
+msgid "Enable Categories info"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid "Enable Categories info "
+msgstr ""
+
+#: inc/theme-options.php:633
+msgid "Enable Comment Count Info"
+msgstr ""
+
+#: plugins/u-course/u-course.php:464
+msgid "Enable default top and bottom"
+msgstr ""
+
+#: plugins/u-event/u-event.php:480
+#: plugins/u-member/u-member.php:387
+#: plugins/u-projects/u-projects.php:312
+msgid "Enable default top and bottom padding  for content (30px)"
+msgstr ""
+
+#: inc/page-metadata.php:52
+#: inc/post-metadata.php:52
+#: inc/post-metadata.php:112
+msgid "Enable default top and bottom padding for content (30px)"
+msgstr ""
+
+#: inc/theme-options.php:1055
+msgid "Enable Email button"
+msgstr ""
+
+#: inc/theme-options.php:964
+msgid "Enable Facebook Share button"
+msgstr ""
+
+#: plugins/u-course/u-course.php:20
+#: plugins/u-event/u-event.php:18
+#: plugins/u-projects/u-projects.php:17
+msgid "Enable filter bar"
+msgstr ""
+
+#: inc/theme-options.php:225
+msgid "Enable for Homepage Only"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-grid.php:537
+msgid "Enable Gallery Popup"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-grid.php:543
+msgid "Enable Gallery Popup when click on post thumbnail images"
+msgstr ""
+
+#: inc/theme-options.php:1016
+msgid "Enable Google+ Share button"
+msgstr ""
+
+#: inc/theme-options.php:990
+msgid "Enable LinkedIn Share button"
+msgstr ""
+
+#: inc/theme-options.php:74
+msgid "Enable or disable default search form in every pages"
+msgstr ""
+
+#: inc/page-metadata.php:135
+msgid "Enable overlay content"
+msgstr ""
+
+#: functions.php:710
+msgid "Enable palalax effect for row's background"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:186
+msgid "Enable parallax effect"
+msgstr ""
+
+#: inc/theme-options.php:1029
+msgid "Enable Pinterest Pin button"
+msgstr ""
+
+#: inc/theme-options.php:646
+msgid "Enable Post Navigation"
+msgstr ""
+
+#: inc/theme-options.php:207
+msgid "Enable Pre-loading Effect"
+msgstr ""
+
+#: inc/theme-options.php:594
+msgid "Enable Published Date info"
+msgstr ""
+
+#: inc/theme-options.php:125
+msgid "Enable RTL"
+msgstr ""
+
+#: inc/theme-options.php:194
+msgid "Enable Scroll Top button"
+msgstr ""
+
+#: inc/theme-options.php:73
+msgid "Enable Search"
+msgstr ""
+
+#: inc/theme-options.php:746
+msgid "Enable Search Form in 404 page"
+msgstr ""
+
+#: inc/theme-options.php:1068
+msgid "Enable Smooth Scroll Effect"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid "Enable Tags info "
+msgstr ""
+
+#: inc/page-metadata.php:116
+msgid "Enable to apply University slider's navigation & layer style"
+msgstr ""
+
+#: inc/theme-options.php:1003
+msgid "Enable Tumblr Share button"
+msgstr ""
+
+#: inc/theme-options.php:977
+msgid "Enable Twitter Tweet button"
+msgstr ""
+
+#: inc/page-metadata.php:115
+msgid "Enable University Style for Revolution Slider"
+msgstr ""
+
+#: inc/theme-options.php:1042
+msgid "Enable VK share button"
+msgstr ""
+
+#: u-event/single-event-detail.php:60
+#: plugins/u-event/templates/single-event-detail.php:59
+msgid "End"
+msgstr ""
+
+#: plugins/u-event/event-list-table.php:72
+#: plugins/u-event/u-event.php:488
+msgid "End Date"
+msgstr ""
+
+#: plugins/u-event/event-functions.php:11
+msgid "End date"
+msgstr ""
+
+#: functions.php:1072
+msgid "END: "
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:76
+msgid "End: "
+msgstr ""
+
+#: plugins/u-shortcodes/university-shortcodes.php:166
+msgid "Enter Animation Delay in second (ex: 1.5)"
+msgstr ""
+
+#: inc/page-metadata.php:473
+msgid "Enter category Ids or slugs to get posts from, separated by a comma"
+msgstr ""
+
+#: inc/theme-options.php:146
+msgid "Enter custom code or JS code here. For example, enter Google Analytics"
+msgstr ""
+
+#: inc/theme-options.php:133
+msgid "Enter custom CSS. Ex: <i>.class{ font-size: 13px; }</i>"
+msgstr ""
+
+#: plugins/u-member/u-member.php:400
+msgid "Enter email contact of member"
+msgstr ""
+
+#: inc/theme-options.php:930
+msgid "Enter Font Awesome class (Ex: fa-facebook)"
+msgstr ""
+
+#: inc/theme-options.php:333
+msgid ""
+"Enter font-family name here. <a href=\"http://www.google.com/fonts/\" "
+"target=\"_blank\">Google Fonts</a> are supported. For example, if you choose "
+"\"Source Code Pro\" Google Font with font-weight 400,500,600, enter <i>"
+"Source Code Pro:400,500,600</i>"
+msgstr ""
+
+#: inc/theme-options.php:346
+msgid ""
+"Enter font-family name here. <a href=\"http://www.google.com/fonts/\" "
+"target=\"_blank\">Google Fonts</a> are supported. For example, if you choose "
+"\"Source Code Pro\" Google Font with font-weight 400,500,600, enter <i>"
+"Source Code Pro:400,500,600</i> (Only few heading texts are affected)"
+msgstr ""
+
+#: plugins/u-member/u-member.php:398
+#: plugins/u-member/u-member.php:399
+#: plugins/u-member/u-member.php:401
+#: plugins/u-member/u-member.php:402
+#: plugins/u-member/u-member.php:403
+#: plugins/u-member/u-member.php:404
+#: plugins/u-member/u-member.php:405
+#: plugins/u-member/u-member.php:406
+#: plugins/u-member/u-member.php:407
+#: plugins/u-member/u-member.php:408
+#: plugins/u-member/u-member.php:409
+#: plugins/u-member/u-member.php:410
+msgid "Enter full link to member profile page"
+msgstr ""
+
+#: inc/theme-options.php:803
+#: inc/theme-options.php:816
+#: inc/theme-options.php:829
+#: inc/theme-options.php:842
+#: inc/theme-options.php:855
+#: inc/theme-options.php:868
+#: inc/theme-options.php:881
+#: inc/theme-options.php:894
+#: inc/theme-options.php:940
+msgid "Enter full link to your account (including http://)"
+msgstr ""
+
+#: inc/theme-options.php:789
+msgid "Enter number"
+msgstr ""
+
+#: inc/page-metadata.php:487
+msgid ""
+"Enter post IDs, separated by a comma.If this param is used, other params are "
+"ignored"
+msgstr ""
+
+#: inc/page-metadata.php:107
+msgid "Enter Revolution Slider Alias Name"
+msgstr ""
+
+#: inc/page-metadata.php:480
+msgid "Enter tags to get posts from, separated by a comma"
+msgstr ""
+
+#: functions.php:145
+msgid "Enter your Facebook profile url."
+msgstr ""
+
+#: functions.php:152
+msgid "Enter your Flickr profile url."
+msgstr ""
+
+#: functions.php:159
+msgid "Enter your Google+ profile url."
+msgstr ""
+
+#: functions.php:138
+msgid "Enter your Twitter profile url."
+msgstr ""
+
+#: inc/page-metadata.php:172
+#: plugins/u-event/u-event.php:318
+#: plugins/u-event/u-event.php:319
+#: plugins/u-shortcodes/shortcodes/blog.php:239
+#: plugins/u-shortcodes/shortcodes/calendar.php:208
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:212
+#: plugins/u-shortcodes/shortcodes/post-grid.php:393
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:100
+#: plugins/u-shortcodes/shortcodes/monthview/events-list.php:22
+#: plugins/u-shortcodes/shortcodes/monthview/events-list.php:30
+msgid "Event"
+msgstr ""
+
+#: functions.php:1027
+msgid "Event Details"
+msgstr ""
+
+#: plugins/u-event/u-event.php:490
+msgid "Event ID"
+msgstr ""
+
+#: plugins/u-event/u-event.php:505
+msgid "Event Info"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid "Event Listing Order"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid "Event Listing Order Bar"
+msgstr ""
+
+#: plugins/u-event/u-event.php:521
+msgid "Event Location"
+msgstr ""
+
+#: u-member/member-course.php:45
+#: u-member/member-course.php:125
+#: plugins/u-event/event-list-table.php:70
+#: plugins/u-member/templates/member-course.php:29
+msgid "Event Name"
+msgstr ""
+
+#: u-event/event-listing.php:9
+#: u-member/member-course.php:38
+#: plugins/u-event/templates/event-listing.php:9
+msgid "Events"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid "Events Categories Slug"
+msgstr ""
+
+#: plugins/u-event/event-list-table.php:116
+msgid "Events List table"
+msgstr ""
+
+#: functions.php:380
+msgid "Events Sidebar"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid "Events Slug"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid "Events Tags Slug"
+msgstr ""
+
+#: inc/theme-options.php:398
+#: inc/theme-options.php:411
+msgid "Ex: 2px"
+msgstr ""
+
+#: plugins/u-course/includes/options-page/options-page.php:210
+#: plugins/u-event/includes/options-page/options-page.php:210
+#: plugins/u-member/includes/options-page/options-page.php:210
+#: plugins/u-projects/includes/options-page/options-page.php:210
+msgid "Exception occurs: "
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:245
+msgid "Exclude"
+msgstr ""
+
+#: inc/theme-options.php:802
+msgid "Facebook"
+msgstr ""
+
+#: inc/theme-options.php:963
+msgid "Facebook Share"
+msgstr ""
+
+#: plugins/u-member/u-member.php:398
+msgid "Facebook:"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:54
+msgid "Feb"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:41
+msgid "February"
+msgstr ""
+
+#: plugins/u-course/course-list-table.php:167
+#: plugins/u-event/event-list-table.php:173
+msgid "Fill slug or ID of categories. Ex: 12, 13"
+msgstr ""
+
+#: plugins/u-course/u-course.php:20
+#: plugins/u-event/u-event.php:18
+#: plugins/u-projects/u-projects.php:17
+msgid "Filter bar"
+msgstr ""
+
+#: inc/theme-options.php:893
+msgid "Flickr"
+msgstr ""
+
+#: plugins/u-member/u-member.php:407
+msgid "Flickr:"
+msgstr ""
+
+#: inc/theme-options.php:35
+msgid "Fonts"
+msgstr ""
+
+#: inc/theme-options.php:318
+msgid "Footer Background Color"
+msgstr ""
+
+#: functions.php:370
+msgid "Footer Sidebar"
+msgstr ""
+
+#: plugins/u-course/u-course.php:80
+#: plugins/u-course/u-course.php:106
+#: plugins/u-event/u-event.php:86
+#: plugins/u-event/u-event.php:113
+#: woocommerce/checkout/review-order.php:122
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:150
+#: plugins/u-shortcodes/shortcodes/post-grid.php:187
+msgid "Free"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:71
+msgid "Fri"
+msgstr ""
+
+#. print_r($price);
+#: u-course/course-listing.php:87
+#: u-event/classic-list-item.php:42
+#: u-event/grid-list-item.php:39
+#: plugins/u-event/templates/classic-list-item.php:42
+#: plugins/u-event/templates/grid-list-item.php:39
+#: plugins/u-shortcodes/shortcodes/blog.php:128
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:122
+#: plugins/u-shortcodes/shortcodes/post-grid.php:158
+msgid "From "
+msgstr ""
+
+#: woocommerce/loop/rating.php:25
+msgid "From  "
+msgstr ""
+
+#. Name of the template
+msgid "Front Page"
+msgstr ""
+
+#: inc/page-metadata.php:445
+msgid "Front Page Content Settings"
+msgstr ""
+
+#: inc/page-metadata.php:64
+msgid "Front Page Header Settings"
+msgstr ""
+
+#: functions.php:343
+msgid "Front Page Sidebar "
+msgstr ""
+
+#: u-member/member-course.php:79
+#: u-member/member-course.php:157
+msgid "Full Day"
+msgstr ""
+
+#: plugins/u-course/u-course.php:20
+#: plugins/u-event/u-event.php:18
+#: plugins/u-member/u-member.php:20
+#: plugins/u-projects/u-projects.php:17
+msgid "Full Width"
+msgstr ""
+
+#: functions.php:692
+msgid "Full-width (Side to side)"
+msgstr ""
+
+#: plugins/u-member/member-shortcode.php:198
+#: plugins/u-shortcodes/shortcodes/video-link.php:129
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/theme-options.php:27
+#: plugins/u-course/u-course.php:20
+#: plugins/u-event/u-event.php:18
+#: plugins/u-member/u-member.php:20
+#: plugins/u-projects/u-projects.php:17
+msgid "General"
+msgstr ""
+
+#: plugins/u-member/u-member.php:408
+msgid "GitHub:"
+msgstr ""
+
+#: inc/theme-options.php:854
+msgid "Google Plus"
+msgstr ""
+
+#: plugins/u-member/u-member.php:404
+msgid "Google Plus:"
+msgstr ""
+
+#: inc/theme-options.php:1015
+msgid "Google+ Share"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid "Grid"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-grid.php:380
+msgid "Grid Columns Number"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-grid.php:373
+msgid "Grid Header Background"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/button.php:118
+msgid "Has arrow?"
+msgstr ""
+
+#: inc/page-metadata.php:72
+msgid "Header Background"
+msgstr ""
+
+#: inc/page-metadata.php:124
+msgid "Header Custom Height"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid "Header Style"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/heading.php:43
+#: plugins/u-shortcodes/shortcodes/textbox.php:103
+msgid "Heading"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/textbox.php:163
+msgid "Heading Color"
+msgstr ""
+
+#: inc/theme-options.php:345
+msgid "Heading Font Family"
+msgstr ""
+
+#: inc/theme-options.php:410
+msgid "Heading Letter Spacing"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/heading.php:54
+#: plugins/u-shortcodes/shortcodes/heading.php:56
+msgid "Heading text"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/heading.php:61
+msgid "Heading URL"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:143
+msgid "Height"
+msgstr ""
+
+#: inc/page-metadata.php:44
+#: inc/post-metadata.php:44
+#: inc/post-metadata.php:104
+#: inc/theme-options.php:560
+#: inc/theme-options.php:682
+#: inc/theme-options.php:712
+#: plugins/u-course/u-course.php:463
+#: plugins/u-event/u-event.php:479
+#: plugins/u-member/u-member.php:386
+#: plugins/u-projects/u-projects.php:311
+msgid "Hidden"
+msgstr ""
+
+#: inc/page-metadata.php:357
+#: inc/page-metadata.php:377
+#: inc/page-metadata.php:397
+#: inc/page-metadata.php:417
+#: plugins/u-course/u-course.php:20
+#: plugins/u-shortcodes/shortcodes/blog.php:324
+#: plugins/u-shortcodes/shortcodes/blog.php:335
+#: plugins/u-shortcodes/shortcodes/blog.php:348
+#: plugins/u-shortcodes/shortcodes/blog.php:359
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:306
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:318
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:330
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:342
+#: plugins/u-shortcodes/shortcodes/post-grid.php:481
+#: plugins/u-shortcodes/shortcodes/post-grid.php:493
+#: plugins/u-shortcodes/shortcodes/post-grid.php:505
+#: plugins/u-shortcodes/shortcodes/post-grid.php:516
+#: plugins/u-shortcodes/shortcodes/post-grid.php:529
+msgid "Hide"
+msgstr ""
+
+#: footer.php:98
+#: functions.php:439
+#: header-navigation.php:127
+#: page-templates/demo-nav-3.php:208
+msgid "Home"
+msgstr ""
+
+#: header-navigation.php:127
+#: page-templates/demo-nav-3.php:208
+msgid "Home page"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/countdown_clock.php:113
+msgid "Hour"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:164
+msgid "Hover Opacity"
+msgstr ""
+
+#. URI of the theme
+msgid "http://cactusthemes.com/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themeforest.net/user/cactusthemes"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/button.php:73
+#: plugins/u-shortcodes/shortcodes/textbox.php:77
+msgid "Icon"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/textbox.php:145
+msgid "Icon Background Color"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/textbox.php:154
+msgid "Icon Background Hover"
+msgstr ""
+
+#: inc/theme-options.php:927
+msgid "Icon Font Awesome"
+msgstr ""
+
+#: inc/functions-admin.php:22
+#: inc/functions-admin.php:29
+#: inc/page-metadata.php:267
+#: u-course/course-categories.php:42
+#: u-member/member-course.php:44
+#: u-member/member-course.php:124
+#: u-member/member-course.php:218
+#: u-member/member-course.php:277
+#: plugins/u-course/course-functions.php:15
+#: plugins/u-course/course-list-table.php:69
+#: plugins/u-event/event-functions.php:8
+#: plugins/u-event/event-list-table.php:69
+#: plugins/u-member/member-shortcode.php:236
+#: plugins/u-course/templates/course-categories.php:27
+#: plugins/u-course/templates/course-search-result.php:19
+#: plugins/u-member/templates/member-course.php:28
+#: plugins/u-member/templates/member-course.php:98
+#: plugins/u-shortcodes/shortcodes/blog.php:293
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:273
+#: plugins/u-shortcodes/shortcodes/post-grid.php:448
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:154
+msgid "ID"
+msgstr ""
+
+#: plugins/u-member/learndash-lecturers.php:54
+msgid "Id"
+msgstr ""
+
+#: inc/widgets/latest-post-type.php:135
+#: plugins/u-course/widget/latest-course.php:168
+#: plugins/u-event/widget/latest-event.php:196
+#: plugins/u-projects/widget/latest-event.php:193
+msgid "ID list show:"
+msgstr ""
+
+#: u-course/single-course-meta.php:39
+#: plugins/u-course/templates/single-course-meta.php:38
+msgid "ID:"
+msgstr ""
+
+#: inc/page-metadata.php:207
+#: plugins/u-course/course-list-table.php:130
+#: plugins/u-event/event-list-table.php:136
+#: plugins/u-shortcodes/shortcodes/blog.php:261
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:234
+#: plugins/u-shortcodes/shortcodes/post-grid.php:416
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:122
+msgid "IDs"
+msgstr ""
+
+#: plugins/u-member/member-shortcode.php:184
+msgid "Ids"
+msgstr ""
+
+#: inc/page-metadata.php:435
+msgid "If not set, this button is not shown"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:254
+msgid "Ignore"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:117
+msgid "Image"
+msgstr ""
+
+#: option-tree/includes/ot-settings-api.php:376
+msgid "Import Sample Data"
+msgstr ""
+
+#: plugins/u-course/widget/course-search.php:107
+msgid "Included Categories (IDs. Ex: 68, 86)"
+msgstr ""
+
+#: plugins/u-member/u-member.php:399
+msgid "Instagram:"
+msgstr ""
+
+#: inc/core/skeleton-core.php:83
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/core/skeleton-core.php:82
+msgid "Install Required &amp; Recommended Plugins"
+msgstr ""
+
+#: inc/core/skeleton-core.php:84
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: u-course/single-course-detail.php:8
+#: plugins/u-member/learndash-lecturers.php:10
+#: plugins/u-course/templates/single-course-detail.php:8
+msgid "INSTRUCTORS:"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:53
+msgid "Jan"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:40
+msgid "January"
+msgstr ""
+
+#: u-event/single-event-meta.php:108
+#: u-event/single-event-meta.php:163
+#: u-event/single-event-meta.php:176
+#: plugins/u-event/templates/single-event-meta.php:63
+#: plugins/u-event/templates/single-event-meta.php:90
+#: plugins/u-event/templates/single-event-meta.php:99
+msgid "JOIN THIS EVENT"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:59
+msgid "Jul"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:46
+msgid "July"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:58
+msgid "Jun"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:45
+msgid "June"
+msgstr ""
+
+#: 404.php:35
+msgid "Keywords"
+msgstr ""
+
+#: inc/widgets/latest-post-type.php:19
+msgid "Latest Posts "
+msgstr ""
+
+#: plugins/u-event/u-event.php:481
+#: plugins/u-shortcodes/shortcodes/textbox.php:119
+msgid "Layout"
+msgstr ""
+
+#: inc/page-metadata.php:13
+#: inc/post-metadata.php:13
+#: inc/post-metadata.php:73
+#: plugins/u-course/u-course.php:482
+#: plugins/u-event/u-event.php:499
+#: plugins/u-member/u-member.php:391
+#: plugins/u-projects/u-projects.php:315
+msgid "Layout settings"
+msgstr ""
+
+#: inc/page-metadata.php:182
+#: plugins/u-shortcodes/shortcodes/blog.php:402
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:351
+#: plugins/u-shortcodes/shortcodes/post-grid.php:550
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:196
+msgid "LearnDash Course"
+msgstr ""
+
+#: plugins/u-member/learndash-lecturers.php:43
+msgid "Learndash Lecturers"
+msgstr ""
+
+#: inc/core/theme-core.php:304
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/core/theme-core.php:305
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/page-metadata.php:34
+#: inc/post-metadata.php:34
+#: inc/post-metadata.php:94
+#: inc/theme-options.php:707
+#: plugins/u-course/u-course.php:463
+#: plugins/u-event/u-event.php:479
+#: plugins/u-member/u-member.php:386
+#: plugins/u-projects/u-projects.php:311
+#: plugins/u-shortcodes/shortcodes/textbox.php:122
+msgid "Left"
+msgstr ""
+
+#: inc/theme-options.php:677
+#: inc/theme-options.php:776
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/theme-options.php:489
+#: plugins/u-shortcodes/shortcodes/textbox.php:136
+msgid "Light"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/textbox.php:84
+msgid "Link in title"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-grid.php:348
+msgid "Link text"
+msgstr ""
+
+#: plugins/u-course/u-course.php:475
+#: plugins/u-event/u-event.php:494
+msgid ""
+"Link to a Subscription Form, if this event does not have a related "
+"WooCommerce Product. If empty, button is invisible"
+msgstr ""
+
+#: plugins/u-member/member-shortcode.php:258
+msgid "Link to single member"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-grid.php:355
+msgid "Link URL"
+msgstr ""
+
+#: inc/widgets/divider.php:94
+msgid "Link:"
+msgstr ""
+
+#: inc/theme-options.php:828
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/theme-options.php:989
+msgid "LinkedIn Share"
+msgstr ""
+
+#: plugins/u-member/u-member.php:402
+msgid "LinkedIn:"
+msgstr ""
+
+#: inc/page-metadata.php:190
+msgid "List of cat ID (or slug), separated by a comma (for Overlay Content)"
+msgstr ""
+
+#: plugins/u-member/member-shortcode.php:207
+msgid "list of Department, separated by a comma"
+msgstr ""
+
+#: plugins/u-member/member-shortcode.php:187
+msgid "List of member Ids, separated by a comma"
+msgstr ""
+
+#: inc/page-metadata.php:199
+msgid "List of tags, separated by a comma (for Overlay Content)"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:137
+msgid "List View"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid "Listing Style"
+msgstr ""
+
+#: plugins/u-course/u-course.php:471
+msgid "Location Address of course"
+msgstr ""
+
+#: plugins/u-event/u-event.php:511
+msgid "Location Address of event"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:77
+#: plugins/u-shortcodes/shortcodes/monthview/events-list.php:47
+#: plugins/u-shortcodes/shortcodes/monthview/events-list.php:54
+msgid "Location: "
+msgstr ""
+
+#: inc/core/theme-core.php:299
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: inc/theme-options.php:181
+msgid "Login Logo Image"
+msgstr ""
+
+#: inc/theme-options.php:157
+msgid "Logo Image"
+msgstr ""
+
+#: inc/theme-options.php:522
+msgid "Logo Image For Sticky Menu"
+msgstr ""
+
+#: inc/theme-options.php:292
+msgid "Main color 1"
+msgstr ""
+
+#: inc/theme-options.php:305
+msgid "Main color 2"
+msgstr ""
+
+#: inc/theme-options.php:332
+msgid "Main Font Family"
+msgstr ""
+
+#: inc/theme-options.php:358
+msgid "Main Font Size"
+msgstr ""
+
+#: functions.php:305
+msgid "Main Sidebar"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:55
+msgid "Mar"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:42
+msgid "March"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:44
+#: plugins/u-shortcodes/shortcodes/calendar.php:57
+msgid "May"
+msgstr ""
+
+#: plugins/u-member/member-shortcode.php:173
+#: plugins/u-member/u-member.php:231
+#: plugins/u-member/u-member.php:232
+msgid "Member"
+msgstr ""
+
+#: plugins/u-member/u-member.php:414
+msgid "Member Info"
+msgstr ""
+
+#: plugins/u-member/u-member.php:20
+msgid "Member Listing Order"
+msgstr ""
+
+#: plugins/u-member/u-member.php:20
+msgid "Members Department Slug"
+msgstr ""
+
+#: plugins/u-member/u-member.php:20
+msgid "Members Slug"
+msgstr ""
+
+#: header-navigation.php:24
+#: page-templates/demo-nav-3.php:130
+msgid "Menu"
+msgstr ""
+
+#: inc/page-metadata.php:307
+#: plugins/u-member/member-shortcode.php:244
+#: plugins/u-shortcodes/shortcodes/blog.php:301
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:281
+#: plugins/u-shortcodes/shortcodes/post-grid.php:456
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:162
+msgid "Menu order"
+msgstr ""
+
+#: inc/page-metadata.php:334
+#: plugins/u-shortcodes/shortcodes/blog.php:311
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:293
+#: plugins/u-shortcodes/shortcodes/post-grid.php:468
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:172
+msgid "Meta key"
+msgstr ""
+
+#: inc/page-metadata.php:312
+#: plugins/u-member/member-shortcode.php:245
+#: plugins/u-shortcodes/shortcodes/blog.php:302
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:282
+#: plugins/u-shortcodes/shortcodes/post-grid.php:457
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:163
+msgid "Meta value"
+msgstr ""
+
+#: inc/page-metadata.php:317
+#: plugins/u-member/member-shortcode.php:246
+#: plugins/u-shortcodes/shortcodes/blog.php:303
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:283
+#: plugins/u-shortcodes/shortcodes/post-grid.php:458
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:164
+msgid "Meta value num"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:327
+msgid "Metadata"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:328
+msgid ""
+"Metadata is set in U-Project Settings > Default Metadata. You can also add "
+"new metadata here"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/countdown_clock.php:122
+msgid "Minute"
+msgstr ""
+
+#: inc/theme-options.php:258
+msgid "MM/DD"
+msgstr ""
+
+#: inc/theme-options.php:278
+msgid "MM/DD/YYYY"
+msgstr ""
+
+#: inc/page-metadata.php:287
+#: plugins/u-member/member-shortcode.php:240
+#: plugins/u-shortcodes/shortcodes/blog.php:297
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:277
+#: plugins/u-shortcodes/shortcodes/post-grid.php:452
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:158
+msgid "Modified"
+msgstr ""
+
+#: functions.php:952
+#: functions.php:965
+#: plugins/u-event/u-event.php:18
+msgid "Modified Date"
+msgstr ""
+
+#: plugins/u-member/u-member.php:20
+msgid "Modified Date "
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:67
+msgid "Mon"
+msgstr ""
+
+#: u-member/member-course.php:370
+#: plugins/u-shortcodes/shortcodes/calendar.php:216
+#: plugins/u-shortcodes/shortcodes/countdown_clock.php:95
+msgid "Month"
+msgstr ""
+
+#: u-member/member-course.php:372
+msgid "Months"
+msgstr ""
+
+#: u-event/single-event-detail.php:146
+#: plugins/u-event/templates/single-event-detail.php:86
+msgid "MORE DETAIL"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:14
+msgid "MORE NEWS"
+msgstr ""
+
+#: inc/page-metadata.php:282
+#: inc/core/theme-core.php:277
+#: plugins/u-member/member-shortcode.php:239
+#: plugins/u-shortcodes/shortcodes/blog.php:296
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:276
+#: plugins/u-shortcodes/shortcodes/post-grid.php:451
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:157
+#: plugins/u-shortcodes/shortcodes/testimonial.php:99
+msgid "Name"
+msgstr ""
+
+#: inc/page-metadata.php:335
+msgid "Name of meta key for ordering (for Overlay Content)"
+msgstr ""
+
+#: inc/theme-options.php:39
+msgid "Navigation"
+msgstr ""
+
+#: functions.php:315
+msgid "Navigation Sidebar "
+msgstr ""
+
+#: plugins/u-course/u-course.php:315
+msgid "New Course"
+msgstr ""
+
+#: plugins/u-event/u-event.php:323
+msgid "New Event"
+msgstr ""
+
+#: plugins/u-member/u-member.php:236
+msgid "New Member"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:156
+msgid "New Project"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/button.php:86
+#: plugins/u-shortcodes/shortcodes/textbox.php:97
+msgid "New Tab"
+msgstr ""
+
+#: comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: attachment.php:76
+#: attachment.php:82
+#: single.php:70
+#: single.php:82
+msgid "Next"
+msgstr ""
+
+#: content-single.php:24
+msgid "Next page"
+msgstr ""
+
+#: u-project/single-project.php:126
+#: u-project/single-project.php:128
+#: u-project/single-project.php:136
+#: u-project/single-project.php:138
+msgid "Next Project"
+msgstr ""
+
+#: functions.php:707
+#: inc/theme-options.php:479
+#: plugins/u-member/member-shortcode.php:262
+#: plugins/u-shortcodes/shortcodes/button.php:109
+#: plugins/u-shortcodes/shortcodes/button.php:121
+#: plugins/u-shortcodes/shortcodes/countdown_clock.php:135
+#: plugins/u-shortcodes/shortcodes/post-grid.php:368
+#: plugins/u-shortcodes/shortcodes/post-grid.php:540
+#: plugins/u-shortcodes/shortcodes/testimonial.php:80
+#: plugins/u-shortcodes/shortcodes/video-link.php:184
+msgid "No"
+msgstr ""
+
+#: plugins/u-shortcodes/university-shortcodes.php:866
+msgid "No course for this month"
+msgstr ""
+
+#: plugins/u-course/u-course.php:319
+msgid "No Course found"
+msgstr ""
+
+#: plugins/u-course/u-course.php:320
+msgid "No Course found in Trash"
+msgstr ""
+
+#: plugins/u-course/templates/course-search-result.php:48
+msgid "No courses found"
+msgstr ""
+
+#: plugins/u-event/u-event.php:327
+msgid "No Event found"
+msgstr ""
+
+#: plugins/u-event/u-event.php:328
+msgid "No Event found in Trash"
+msgstr ""
+
+#: plugins/u-shortcodes/university-shortcodes.php:644
+msgid "No events for this month"
+msgstr ""
+
+#: plugins/u-member/u-member.php:240
+msgid "No Member found"
+msgstr ""
+
+#: plugins/u-member/u-member.php:241
+msgid "No Member found in Trash"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:160
+msgid "No Project found"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:161
+msgid "No Project found in Trash"
+msgstr ""
+
+#: inc/theme-options.php:781
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/page-metadata.php:142
+#: inc/page-metadata.php:327
+#: plugins/u-member/member-shortcode.php:250
+#: plugins/u-shortcodes/shortcodes/blog.php:305
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:287
+#: plugins/u-shortcodes/shortcodes/post-grid.php:462
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:166
+msgid "None"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:63
+msgid "Nov"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:50
+msgid "November"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/countdown_clock.php:152
+msgid "Number Color"
+msgstr ""
+
+#: plugins/u-course/u-course.php:474
+msgid "Number of course credits"
+msgstr ""
+
+#: plugins/u-course/course-list-table.php:121
+#: plugins/u-event/event-list-table.php:127
+msgid "Number of item"
+msgstr ""
+
+#: plugins/u-course/u-course.php:20
+#: plugins/u-event/u-event.php:18
+#: plugins/u-projects/u-projects.php:17
+msgid "Number of items"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:251
+msgid "Number of items visible in Carousel. Default is 4"
+msgstr ""
+
+#: inc/page-metadata.php:226
+msgid "Number of items visible in Carousel. Default is 4 (for Overlay Content)"
+msgstr ""
+
+#: inc/page-metadata.php:217
+msgid "Number of posts to show (for Overlay Content)"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/blog.php:271
+msgid "Number of posts to show. Default is 4"
+msgstr ""
+
+#: plugins/u-member/member-shortcode.php:214
+msgid "Number of posts to show. Default is 6"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-grid.php:426
+msgid "Number of posts to show. Default is 7"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:244
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:132
+msgid "Number of posts to show. Default is 8"
+msgstr ""
+
+#: inc/widgets/latest-post-type.php:143
+#: plugins/u-course/widget/latest-course.php:176
+#: plugins/u-event/widget/latest-event.php:204
+#: plugins/u-projects/widget/latest-event.php:201
+msgid "Number of posts:"
+msgstr ""
+
+#: u-course/single-course-meta.php:108
+#: u-course/single-course-meta.php:163
+#: u-event/single-event-meta.php:84
+#: u-event/single-event-meta.php:139
+#: plugins/u-event/templates/single-event-meta.php:46
+#: plugins/u-event/templates/single-event-meta.php:73
+msgid "NUMBER OF TICKETS"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:62
+msgid "Oct"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:49
+msgid "October"
+msgstr ""
+
+#: plugins/u-course/u-course.php:464
+#: plugins/u-event/u-event.php:480
+#: plugins/u-member/u-member.php:20
+#: plugins/u-member/u-member.php:20
+#: plugins/u-member/u-member.php:20
+#: plugins/u-member/u-member.php:387
+#: plugins/u-projects/u-projects.php:312
+msgid "Off"
+msgstr ""
+
+#: inc/core/theme-core.php:60
+msgid "Older posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: plugins/u-course/u-course.php:464
+#: plugins/u-event/u-event.php:480
+#: plugins/u-member/u-member.php:20
+#: plugins/u-member/u-member.php:20
+#: plugins/u-member/u-member.php:20
+#: plugins/u-member/u-member.php:387
+#: plugins/u-projects/u-projects.php:312
+msgid "On"
+msgstr ""
+
+#: u-member/member-course.php:330
+msgid "Online Courses"
+msgstr ""
+
+#: inc/theme-options.php:510
+msgid "Only Menu"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:157
+msgid "Opacity"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:197
+msgid "Open in New Tab"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/button.php:82
+#: plugins/u-shortcodes/shortcodes/textbox.php:93
+msgid "Open Link in"
+msgstr ""
+
+#: inc/theme-options.php:950
+msgid "Open Social link in new tab?"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/heading.php:64
+msgid "Optional"
+msgstr ""
+
+#: inc/page-metadata.php:234
+#: plugins/u-course/course-list-table.php:139
+#: plugins/u-event/event-list-table.php:145
+#: plugins/u-member/member-shortcode.php:220
+#: plugins/u-shortcodes/shortcodes/blog.php:277
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:257
+#: plugins/u-shortcodes/shortcodes/post-grid.php:432
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:138
+msgid "Order"
+msgstr ""
+
+#: inc/page-metadata.php:254
+#: inc/page-metadata.php:493
+#: plugins/u-course/course-list-table.php:151
+#: plugins/u-event/event-list-table.php:157
+#: plugins/u-member/member-shortcode.php:232
+#: plugins/u-shortcodes/shortcodes/blog.php:289
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:269
+#: plugins/u-shortcodes/shortcodes/post-grid.php:444
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:150
+msgid "Order by"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:89
+msgid "Order Total"
+msgstr ""
+
+#: u-member/member-course.php:272
+msgid "Other Courses"
+msgstr ""
+
+#: u-member/member-course.php:119
+msgid "Other Events"
+msgstr ""
+
+#: inc/page-metadata.php:134
+msgid "Overlay content"
+msgstr ""
+
+#: functions.php:599
+msgid "Page"
+msgstr ""
+
+#: inc/core/theme-core.php:28
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/theme-options.php:732
+msgid "Page Content"
+msgstr ""
+
+#: inc/theme-options.php:719
+msgid "Page Title"
+msgstr ""
+
+#: plugins/u-projects/templates/single-project.php:26
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:18
+msgid "Pages: "
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:180
+msgid "Parallax"
+msgstr ""
+
+#: inc/page-metadata.php:292
+#: plugins/u-member/member-shortcode.php:241
+#: plugins/u-shortcodes/shortcodes/blog.php:298
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:278
+#: plugins/u-shortcodes/shortcodes/post-grid.php:453
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:159
+msgid "Parent"
+msgstr ""
+
+#: functions.php:334
+msgid "Pathway Sidebar"
+msgstr ""
+
+#: plugins/u-course/u-course.php:45
+#: plugins/u-event/u-event.php:44
+msgid "Pay Deposit"
+msgstr ""
+
+#: plugins/u-course/u-course.php:46
+#: plugins/u-event/u-event.php:45
+msgid "Pay in Full"
+msgstr ""
+
+#: u-event/single-event-detail.php:152
+#: plugins/u-event/templates/single-event-detail.php:92
+msgid "Phone"
+msgstr ""
+
+#: plugins/u-event/u-event.php:512
+msgid "Phone:"
+msgstr ""
+
+#: functions.php:630
+msgid "Pin this"
+msgstr ""
+
+#: inc/core/theme-core.php:189
+msgid "Pingback:"
+msgstr ""
+
+#: inc/theme-options.php:867
+msgid "Pinterest"
+msgstr ""
+
+#: inc/theme-options.php:1028
+msgid "Pinterest Share"
+msgstr ""
+
+#: plugins/u-member/u-member.php:405
+msgid "Pinterest:"
+msgstr ""
+
+#: inc/core/skeleton-core.php:97
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:195
+msgid "Popup"
+msgstr ""
+
+#: plugins/u-member/u-member.php:397
+msgid "Position/Title of member"
+msgstr ""
+
+#: plugins/u-member/u-member.php:397
+msgid "Position:"
+msgstr ""
+
+#: inc/page-metadata.php:167
+#: plugins/u-shortcodes/shortcodes/blog.php:238
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:211
+#: plugins/u-shortcodes/shortcodes/post-grid.php:392
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:99
+msgid "Post"
+msgstr ""
+
+#: inc/page-metadata.php:152
+msgid "Post Carousel"
+msgstr ""
+
+#: inc/page-metadata.php:472
+msgid "Post categories"
+msgstr ""
+
+#: inc/page-metadata.php:500
+msgid "Post date"
+msgstr ""
+
+#: inc/page-metadata.php:486
+msgid "Post Ids"
+msgstr ""
+
+#: inc/theme-options.php:645
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/page-metadata.php:147
+msgid "Post Scroller"
+msgstr ""
+
+#: inc/page-metadata.php:479
+msgid "Post tags"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/blog.php:235
+#: plugins/u-shortcodes/shortcodes/calendar.php:205
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:208
+#: plugins/u-shortcodes/shortcodes/post-grid.php:389
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:96
+msgid "Post Type"
+msgstr ""
+
+#: inc/page-metadata.php:159
+msgid "Post type"
+msgstr ""
+
+#: inc/page-metadata.php:322
+#: plugins/u-member/member-shortcode.php:247
+#: plugins/u-shortcodes/shortcodes/blog.php:304
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:284
+#: plugins/u-shortcodes/shortcodes/post-grid.php:459
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:165
+msgid "Post__in"
+msgstr ""
+
+#: plugins/u-course/u-course.php:20
+#: plugins/u-event/u-event.php:18
+msgid "Posts Per Page"
+msgstr ""
+
+#: inc/theme-options.php:788
+msgid "Posts per page"
+msgstr ""
+
+#: inc/theme-options.php:232
+msgid "Pre-Loading Background Color"
+msgstr ""
+
+#: inc/theme-options.php:206
+msgid "Pre-loading Effect"
+msgstr ""
+
+#: inc/theme-options.php:240
+msgid "Pre-Loading Spinners Color"
+msgstr ""
+
+#: attachment.php:71
+#: attachment.php:87
+#: single.php:59
+#: single.php:94
+msgid "Previous"
+msgstr ""
+
+#: content-single.php:25
+msgid "Previous page"
+msgstr ""
+
+#: u-project/single-project.php:117
+#: u-project/single-project.php:119
+#: u-project/single-project.php:145
+#: u-project/single-project.php:147
+msgid "Previous Project"
+msgstr ""
+
+#: u-course/single-course-meta.php:120
+#: u-course/single-course-meta.php:175
+#: u-event/single-event-meta.php:96
+#: u-event/single-event-meta.php:151
+#: plugins/u-event/templates/single-event-meta.php:58
+#: plugins/u-event/templates/single-event-meta.php:85
+msgid "PRICE"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/price.php:29
+#: plugins/u-shortcodes/shortcodes/price.php:36
+msgid "Price"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/price.php:60
+msgid "Price Color"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/price.php:44
+msgid "Price Text"
+msgstr ""
+
+#: functions.php:210
+msgid "Primary Menus"
+msgstr ""
+
+#: plugins/u-course/u-course.php:470
+#: plugins/u-event/u-event.php:491
+msgid "Product"
+msgstr ""
+
+#: inc/theme-options.php:758
+msgid "Product Page Layout"
+msgstr ""
+
+#: plugins/u-member/u-member.php:169
+msgid "Products"
+msgstr ""
+
+#: u-member/member-listing.php:8
+#: plugins/u-member/templates/member-listing.php:8
+msgid "Professors"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:151
+#: plugins/u-projects/u-projects.php:152
+#: plugins/u-shortcodes/shortcodes/blog.php:241
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:214
+#: plugins/u-shortcodes/shortcodes/post-grid.php:395
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:102
+msgid "Project"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:17
+msgid "Project Categories Slug"
+msgstr ""
+
+#: u-project/project-listing.php:5
+msgid "Project Listing"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:17
+msgid "Project navigation"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:17
+msgid "Project Slug"
+msgstr ""
+
+#: plugins/u-course/course-list-table.php:155
+#: plugins/u-event/event-list-table.php:161
+msgid "Publish Date"
+msgstr ""
+
+#: inc/theme-options.php:593
+msgid "Published Date"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:116
+msgid "Quantity: "
+msgstr ""
+
+#: u-project/project-listing.php:82
+#: u-project/single-project.php:288
+msgid "Quick view"
+msgstr ""
+
+#: inc/page-metadata.php:297
+#: inc/page-metadata.php:505
+#: plugins/u-member/member-shortcode.php:242
+#: plugins/u-shortcodes/shortcodes/blog.php:299
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:279
+#: plugins/u-shortcodes/shortcodes/post-grid.php:454
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:160
+msgid "Random"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:259
+msgid "Recent"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/compare-table.php:150
+msgid "Recommended text "
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid "Related by"
+msgstr ""
+
+#: u-course/single-course-detail.php:157
+#: plugins/u-course/templates/single-course-detail.php:135
+msgid "Related Course"
+msgstr ""
+
+#: plugins/u-course/u-course.php:20
+msgid "Related Courses"
+msgstr ""
+
+#: u-event/single-event-detail.php:274
+#: plugins/u-event/u-event.php:18
+#: plugins/u-event/templates/single-event-detail.php:199
+msgid "Related Events"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:17
+msgid "Related Project"
+msgstr ""
+
+#: u-project/single-project.php:267
+msgid "Related Projects"
+msgstr ""
+
+#: functions.php:336
+msgid "Replace Pathway (Breadcrumbs) with your widgets"
+msgstr ""
+
+#: inc/core/theme-core.php:218
+msgid "Reply"
+msgstr ""
+
+#: inc/core/theme-core.php:285
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: inc/theme-options.php:169
+msgid "Retina Logo (optional)"
+msgstr ""
+
+#: inc/theme-options.php:170
+msgid ""
+"Retina logo should be two time bigger than the custom logo. Retina Logo is "
+"optional, use this setting if you want to strictly support retina devices."
+msgstr ""
+
+#: inc/core/skeleton-core.php:96
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+#: woocommerce/checkout/form-checkout.php:90
+msgid "Review and Payment"
+msgstr ""
+
+#: inc/page-metadata.php:85
+#: inc/page-metadata.php:106
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/page-metadata.php:39
+#: inc/post-metadata.php:39
+#: inc/post-metadata.php:99
+#: inc/theme-options.php:702
+#: plugins/u-course/u-course.php:463
+#: plugins/u-event/u-event.php:479
+#: plugins/u-member/u-member.php:386
+#: plugins/u-projects/u-projects.php:311
+#: plugins/u-shortcodes/shortcodes/textbox.php:123
+msgid "Right"
+msgstr ""
+
+#: inc/theme-options.php:672
+#: inc/theme-options.php:771
+msgid "Right Sidebar"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/compare-table.php:160
+msgid "Row"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/compare-table.php:168
+msgid "Row Content"
+msgstr ""
+
+#: inc/theme-options.php:112
+msgid "RTL mode"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:17
+msgid "Same category"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:72
+msgid "Sat"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/textbox.php:132
+msgid "Schema"
+msgstr ""
+
+#: inc/theme-options.php:193
+msgid "Scroll Top button"
+msgstr ""
+
+#: functions.php:430
+#: plugins/u-course/widget/course-search.php:61
+msgid "SEARCH"
+msgstr ""
+
+#: 404.php:36
+msgid "Search"
+msgstr ""
+
+#: plugins/u-course/u-course.php:318
+msgid "Search Course"
+msgstr ""
+
+#: plugins/u-event/u-event.php:326
+msgid "Search Event"
+msgstr ""
+
+#: inc/theme-options.php:745
+msgid "Search Form"
+msgstr ""
+
+#: header-navigation.php:57
+#: page-templates/demo-nav-3.php:163
+msgid "Search Here"
+msgstr ""
+
+#: plugins/u-member/u-member.php:239
+msgid "Search Member"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:159
+msgid "Search Project"
+msgstr ""
+
+#: header.php:56
+#: page-templates/demo-nav-2.php:75
+#: page-templates/demo-nav-3.php:75
+msgid "Search Result: "
+msgstr ""
+
+#: functions.php:441
+msgid "Search Results for"
+msgstr ""
+
+#: functions.php:211
+msgid "Secondary Menus"
+msgstr ""
+
+#: inc/post-metadata.php:22
+#: inc/post-metadata.php:82
+#: plugins/u-course/u-course.php:463
+#: plugins/u-event/u-event.php:479
+#: plugins/u-member/u-member.php:386
+#: plugins/u-projects/u-projects.php:311
+msgid "Select \"Default\" to use settings in Theme Options"
+msgstr ""
+
+#: inc/page-metadata.php:22
+msgid ""
+"Select \"Default\" to use settings in Theme Options or Front page fullwidth"
+msgstr ""
+
+#: plugins/u-course/u-course.php:470
+msgid "Select a WooCommerce product to sell this course"
+msgstr ""
+
+#: plugins/u-event/u-event.php:491
+msgid "Select a WooCommerce product to sell this event"
+msgstr ""
+
+#: inc/theme-options.php:359
+msgid "Select base font size (px)"
+msgstr ""
+
+#: plugins/u-course/u-course.php:20
+msgid "Select default layout for single course pages"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid "Select default layout for single events pages "
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:17
+msgid "Select default layout for single project pages "
+msgstr ""
+
+#: inc/theme-options.php:759
+msgid "Select default layout of single product pages"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid "Select default style for header of single event pages"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:120
+msgid "Select image for the banner"
+msgstr ""
+
+#: plugins/u-member/u-member.php:20
+msgid "Select layout for single member "
+msgstr ""
+
+#: inc/theme-options.php:690
+msgid "Select Sidebar position for Archive pages"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid "Select style for Events Listing page"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:132
+msgid "Select style for the banner"
+msgstr ""
+
+#: inc/theme-options.php:498
+msgid "Select: Use Logo | Only Menu"
+msgstr ""
+
+#: inc/theme-options.php:86
+msgid "SEO - Echo Meta Tags"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:61
+msgid "Sep"
+msgstr ""
+
+#: plugins/u-member/u-member.php:20
+msgid "Seperate Upcoming and Paste Events/Course Table"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:48
+msgid "September"
+msgstr ""
+
+#: content-featured-image.php:25
+#: u-project/project-listing.php:120
+#: u-project/single-project.php:44
+#: u-project/single-project.php:325
+#: plugins/u-shortcodes/shortcodes/post-grid.php:255
+#: plugins/u-shortcodes/shortcodes/post-grid.php:281
+msgid "SHARE"
+msgstr ""
+
+#: functions.php:615
+msgid "Share on Facebook"
+msgstr ""
+
+#: functions.php:627
+msgid "Share on Google Plus"
+msgstr ""
+
+#: functions.php:621
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: functions.php:624
+msgid "Share on Tumblr"
+msgstr ""
+
+#: functions.php:618
+msgid "Share on Twitter"
+msgstr ""
+
+#: functions.php:633
+msgid "Share on Vk"
+msgstr ""
+
+#: inc/page-metadata.php:352
+#: inc/page-metadata.php:372
+#: inc/page-metadata.php:392
+#: inc/page-metadata.php:412
+#: plugins/u-course/u-course.php:20
+#: plugins/u-shortcodes/shortcodes/blog.php:323
+#: plugins/u-shortcodes/shortcodes/blog.php:336
+#: plugins/u-shortcodes/shortcodes/blog.php:347
+#: plugins/u-shortcodes/shortcodes/blog.php:360
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:305
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:317
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:329
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:341
+#: plugins/u-shortcodes/shortcodes/post-grid.php:480
+#: plugins/u-shortcodes/shortcodes/post-grid.php:492
+#: plugins/u-shortcodes/shortcodes/post-grid.php:504
+#: plugins/u-shortcodes/shortcodes/post-grid.php:517
+#: plugins/u-shortcodes/shortcodes/post-grid.php:528
+msgid "Show"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/blog.php:356
+#: plugins/u-shortcodes/shortcodes/post-grid.php:513
+msgid "Show Category name"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/blog.php:344
+msgid "Show Comment Count"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/blog.php:320
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:302
+#: plugins/u-shortcodes/shortcodes/post-grid.php:477
+msgid "Show Date"
+msgstr ""
+
+#: inc/page-metadata.php:344
+msgid "Show date"
+msgstr ""
+
+#: inc/theme-options.php:1077
+msgid "Show event, course details in order page"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-grid.php:364
+msgid "Show Grid Header?"
+msgstr ""
+
+#: plugins/u-course/u-course.php:20
+#: plugins/u-shortcodes/shortcodes/blog.php:332
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:314
+#: plugins/u-shortcodes/shortcodes/post-grid.php:489
+msgid "Show Price"
+msgstr ""
+
+#: inc/page-metadata.php:364
+msgid "Show price"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/countdown_clock.php:131
+msgid "Show Second?"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:344
+#: plugins/u-shortcodes/shortcodes/post-grid.php:531
+msgid "Show start time. Only works with Event & Course post type"
+msgstr ""
+
+#: inc/page-metadata.php:404
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:338
+#: plugins/u-shortcodes/shortcodes/post-grid.php:525
+msgid "Show Time"
+msgstr ""
+
+#: inc/page-metadata.php:384
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:326
+#: plugins/u-shortcodes/shortcodes/post-grid.php:501
+msgid "Show Venue"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:332
+#: plugins/u-shortcodes/shortcodes/post-grid.php:507
+msgid ""
+"Show Venue with Event & Course post type, or Show Author for Standard post"
+msgstr ""
+
+#: inc/page-metadata.php:21
+#: inc/post-metadata.php:21
+#: inc/post-metadata.php:81
+#: inc/theme-options.php:537
+#: inc/theme-options.php:659
+#: inc/theme-options.php:689
+#: plugins/u-course/u-course.php:20
+#: plugins/u-course/u-course.php:463
+#: plugins/u-event/u-event.php:18
+#: plugins/u-event/u-event.php:479
+#: plugins/u-member/u-member.php:20
+#: plugins/u-member/u-member.php:386
+#: plugins/u-projects/u-projects.php:17
+#: plugins/u-projects/u-projects.php:311
+msgid "Sidebar"
+msgstr ""
+
+#: inc/theme-options.php:555
+msgid "Sidebar Left"
+msgstr ""
+
+#: plugins/u-course/u-course.php:20
+#: plugins/u-event/u-event.php:18
+#: plugins/u-member/u-member.php:20
+#: plugins/u-projects/u-projects.php:17
+msgid "Sidebar left"
+msgstr ""
+
+#: inc/theme-options.php:550
+#: plugins/u-course/u-course.php:20
+#: plugins/u-event/u-event.php:18
+#: plugins/u-member/u-member.php:20
+#: plugins/u-projects/u-projects.php:17
+msgid "Sidebar Right"
+msgstr ""
+
+#: u-course/single-course-detail.php:71
+msgid "SIGN UP NOW"
+msgstr ""
+
+#: plugins/u-course/u-course.php:20
+msgid "Single Course"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+msgid "Single Event"
+msgstr ""
+
+#: plugins/u-member/u-member.php:20
+msgid "Single Member"
+msgstr ""
+
+#: inc/theme-options.php:47
+msgid "Single Page"
+msgstr ""
+
+#: inc/theme-options.php:43
+msgid "Single Post"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:17
+msgid "Single Project"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/button.php:97
+msgid "Small"
+msgstr ""
+
+#: inc/theme-options.php:63
+msgid "Social Accounts"
+msgstr ""
+
+#: functions.php:132
+msgid "Social informations"
+msgstr ""
+
+#: inc/theme-options.php:67
+msgid "Social Sharing"
+msgstr ""
+
+#: u-course/single-course-detail.php:94
+#: u-course/single-course-meta.php:135
+#: u-course/single-course-meta.php:190
+#: u-event/single-event-detail.php:183
+#: u-event/single-event-meta.php:111
+#: u-event/single-event-meta.php:166
+msgid "Sold Out"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/button.php:106
+msgid "Solid Background"
+msgstr ""
+
+#: inc/core/skeleton-core.php:85
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:954
+msgid "Sort By"
+msgstr ""
+
+#: u-event/single-event-detail.php:8
+#: plugins/u-course/u-course.php:473
+#: plugins/u-event/u-event.php:492
+#: plugins/u-member/u-member.php:420
+#: plugins/u-member/u-member.php:424
+#: plugins/u-event/templates/single-event-detail.php:8
+msgid "Speakers"
+msgstr ""
+
+#: inc/page-metadata.php:208
+msgid "Specify post IDs to retrieve (for Overlay Content)"
+msgstr ""
+
+#: u-event/single-event-detail.php:58
+#: plugins/u-event/templates/single-event-detail.php:57
+msgid "Start"
+msgstr ""
+
+#: functions.php:946
+#: functions.php:962
+#: u-course/course-categories.php:45
+#: u-member/member-course.php:47
+#: u-member/member-course.php:127
+#: u-member/member-course.php:221
+#: u-member/member-course.php:280
+#: plugins/u-course/course-list-table.php:72
+#: plugins/u-course/course-list-table.php:156
+#: plugins/u-event/event-list-table.php:71
+#: plugins/u-event/event-list-table.php:162
+#: plugins/u-event/u-event.php:18
+#: plugins/u-event/u-event.php:487
+#: plugins/u-course/templates/course-categories.php:30
+#: plugins/u-course/templates/course-search-result.php:22
+#: plugins/u-member/templates/member-course.php:31
+#: plugins/u-member/templates/member-course.php:101
+msgid "Start Date"
+msgstr ""
+
+#: plugins/u-course/course-functions.php:17
+#: plugins/u-event/event-functions.php:10
+msgid "Start date"
+msgstr ""
+
+#: plugins/u-member/member-shortcode.php:249
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:286
+#: plugins/u-shortcodes/shortcodes/post-grid.php:461
+msgid "Start Date, Recent Events or Course"
+msgstr ""
+
+#: plugins/u-course/course-list-table.php:157
+msgid "Start Date, Upcoming Course"
+msgstr ""
+
+#: plugins/u-event/event-list-table.php:163
+msgid "Start Date, Upcoming Events"
+msgstr ""
+
+#: plugins/u-member/member-shortcode.php:248
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:285
+#: plugins/u-shortcodes/shortcodes/post-grid.php:460
+msgid "Start Date, Upcoming Events or Course"
+msgstr ""
+
+#: plugins/u-course/u-course.php:468
+msgid "Start Date:"
+msgstr ""
+
+#: functions.php:1041
+#: functions.php:1071
+#: u-course/single-course-meta.php:31
+#: plugins/u-course/templates/single-course-meta.php:30
+msgid "START:"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:75
+msgid "Start: "
+msgstr ""
+
+#: inc/theme-options.php:466
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/theme-options.php:497
+msgid "Sticky Menu Layout "
+msgstr ""
+
+#: plugins/u-member/u-member.php:166
+msgid "Store Tags"
+msgstr ""
+
+#: plugins/u-member/u-member.php:163
+msgid "Store Type"
+msgstr ""
+
+#: inc/theme-options.php:423
+#: inc/widgets/divider.php:97
+#: plugins/u-shortcodes/shortcodes/video-link.php:126
+msgid "Style"
+msgstr ""
+
+#: inc/theme-options.php:436
+msgid "Style 1 (Default)"
+msgstr ""
+
+#: inc/theme-options.php:441
+msgid "Style 2"
+msgstr ""
+
+#: inc/theme-options.php:446
+msgid "Style 3"
+msgstr ""
+
+#: inc/core/theme-core.php:307
+msgid "Submit &rsaquo;"
+msgstr ""
+
+#: plugins/u-event/u-event.php:495
+msgid "Subscribe Button Text"
+msgstr ""
+
+#: plugins/u-course/u-course.php:476
+msgid "Subscribe Button Text:"
+msgstr ""
+
+#: plugins/u-event/u-event.php:494
+msgid "Subscribe URL"
+msgstr ""
+
+#: plugins/u-course/u-course.php:475
+msgid "Subscribe URL:"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:66
+msgid "Sun"
+msgstr ""
+
+#: functions.php:442
+msgid "Tag"
+msgstr ""
+
+#: inc/page-metadata.php:198
+#: inc/theme-options.php:619
+#: plugins/u-event/u-event.php:18
+#: plugins/u-event/u-event.php:18
+#: plugins/u-shortcodes/shortcodes/blog.php:254
+#: plugins/u-shortcodes/shortcodes/calendar.php:238
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:227
+#: plugins/u-shortcodes/shortcodes/post-grid.php:409
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:115
+msgid "Tags"
+msgstr ""
+
+#: inc/widgets/latest-post-type.php:139
+#: plugins/u-course/widget/latest-course.php:172
+#: plugins/u-event/widget/latest-event.php:200
+#: plugins/u-projects/widget/latest-event.php:197
+msgid "Tags:"
+msgstr ""
+
+#: content-single.php:45
+msgid "Tags: "
+msgstr ""
+
+#: u-event/single-event-detail.php:116
+msgid "Tags:&nbsp;&nbsp;"
+msgstr ""
+
+#: u-course/single-course-meta.php:132
+#: u-course/single-course-meta.php:187
+msgid "TAKE THIS COURSE"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/testimonial.php:120
+msgid "Testimonial content"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/testimonial.php:91
+msgid "Testimonial Item"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/testimonial.php:65
+msgid "Testimonials"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:150
+msgid "Text"
+msgstr ""
+
+#: plugins/u-course/u-course.php:479
+msgid "Text that appears before Subscribe Button"
+msgstr ""
+
+#: plugins/u-event/u-event.php:493
+msgid "Text that appears before subscribe button"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/compare-table.php:153
+msgid "Text that appears in a recommended column"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:153
+msgid "Text that appears on banner"
+msgstr ""
+
+#: plugins/u-course/u-course.php:478
+msgid "Text that appears on download button"
+msgstr ""
+
+#: plugins/u-course/u-course.php:476
+#: plugins/u-event/u-event.php:495
+msgid "Text that appears on the subscribe button."
+msgstr ""
+
+#: plugins/u-event/u-event.php:487
+#: plugins/u-event/u-event.php:488
+msgid ""
+"The time zone is set in Settings > General. This time in in local time. Date "
+"Format: Y/m/d h:i A"
+msgstr ""
+
+#. 1 is category, 2 is tag, 3 is the date and 4 is the author's name.
+#: inc/core/theme-core.php:503
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-"
+"author\"> by %4$s</span>."
+msgstr ""
+
+#: inc/core/theme-core.php:505
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by "
+"%4$s</span>."
+msgstr ""
+
+#: inc/core/theme-core.php:507
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: inc/page-metadata.php:460
+msgid "This Page Content"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:70
+msgid "Thur"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/monthview/events-list.php:46
+#: plugins/u-shortcodes/shortcodes/monthview/events-list.php:53
+msgid "Time: "
+msgstr ""
+
+#: inc/page-metadata.php:277
+#: plugins/u-course/course-functions.php:16
+#: plugins/u-course/course-list-table.php:154
+#: plugins/u-event/event-functions.php:9
+#: plugins/u-event/event-list-table.php:160
+#: plugins/u-member/member-shortcode.php:238
+#: plugins/u-shortcodes/shortcodes/blog.php:226
+#: plugins/u-shortcodes/shortcodes/blog.php:295
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:275
+#: plugins/u-shortcodes/shortcodes/post-grid.php:333
+#: plugins/u-shortcodes/shortcodes/post-grid.php:450
+#: plugins/u-shortcodes/shortcodes/post-scroller.php:156
+#: plugins/u-shortcodes/shortcodes/testimonial.php:106
+msgid "Title"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/testimonial.php:109
+msgid "Title of person (Ex: Professor)"
+msgstr ""
+
+#: plugins/u-event/u-event.php:18
+#: plugins/u-event/u-event.php:481
+msgid "Title Only "
+msgstr ""
+
+#: inc/widgets/divider.php:92
+#: inc/widgets/latest-post-type.php:131
+#: plugins/u-course/widget/course-search.php:103
+#: plugins/u-course/widget/latest-course.php:164
+#: plugins/u-event/widget/latest-event.php:192
+#: plugins/u-projects/widget/latest-event.php:189
+msgid "Title:"
+msgstr ""
+
+#: functions.php:317
+msgid "To replace default navigation"
+msgstr ""
+
+#: functions.php:393
+msgid "To replace main sidebar in all Courses page"
+msgstr ""
+
+#: functions.php:382
+msgid "To replace main sidebar in all Events page"
+msgstr ""
+
+#: functions.php:404
+msgid "To replace main sidebar in WooCommerce page"
+msgstr ""
+
+#: functions.php:326
+msgid "To replace Top Nav"
+msgstr ""
+
+#: footer.php:44
+msgid "TOP"
+msgstr ""
+
+#: functions.php:324
+msgid "Top Nav Sidebar"
+msgstr ""
+
+#: functions.php:352
+msgid "Top Sidebar"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:29
+msgid "Total"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:68
+msgid "Tue"
+msgstr ""
+
+#: inc/theme-options.php:841
+msgid "Tumblr"
+msgstr ""
+
+#: inc/theme-options.php:1002
+msgid "Tumblr Share"
+msgstr ""
+
+#: plugins/u-member/u-member.php:403
+msgid "Tumblr:"
+msgstr ""
+
+#: inc/theme-options.php:815
+msgid "Twitter"
+msgstr ""
+
+#: inc/theme-options.php:976
+msgid "Twitter Share"
+msgstr ""
+
+#: plugins/u-member/u-member.php:401
+msgid "Twitter:"
+msgstr ""
+
+#: plugins/u-course/u-course.php:322
+msgid "U-Course"
+msgstr ""
+
+#: plugins/u-course/course-functions.php:19
+#: plugins/u-course/u-course.php:352
+msgid "U-Course Categories"
+msgstr ""
+
+#: plugins/u-course/u-course.php:353
+msgid "U-Course Category"
+msgstr ""
+
+#: plugins/u-course/u-course.php:200
+msgid "U-Course Setting Page"
+msgstr ""
+
+#: plugins/u-course/u-course.php:200
+msgid "U-Course Settings"
+msgstr ""
+
+#: plugins/u-member/u-member.php:272
+#: plugins/u-member/u-member.php:273
+msgid "U-Department"
+msgstr ""
+
+#: inc/widgets/divider.php:21
+msgid "U-Divider"
+msgstr ""
+
+#: plugins/u-event/u-event.php:330
+msgid "U-Event"
+msgstr ""
+
+#: plugins/u-event/event-functions.php:13
+#: plugins/u-event/u-event.php:361
+msgid "U-Event Categories"
+msgstr ""
+
+#: plugins/u-event/u-event.php:362
+msgid "U-Event Category"
+msgstr ""
+
+#: plugins/u-event/u-event.php:215
+msgid "U-Event Setting Page"
+msgstr ""
+
+#: plugins/u-event/u-event.php:215
+msgid "U-Event Settings"
+msgstr ""
+
+#: plugins/u-event/u-event.php:365
+#: plugins/u-event/u-event.php:366
+msgid "U-Event Tags"
+msgstr ""
+
+#: plugins/u-member/u-member.php:243
+msgid "U-Member"
+msgstr ""
+
+#: plugins/u-member/u-member.php:160
+msgid "U-Member Categories"
+msgstr ""
+
+#: plugins/u-member/u-member.php:66
+msgid "U-Member Setting Page"
+msgstr ""
+
+#: plugins/u-member/u-member.php:66
+msgid "U-Member Settings"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:163
+msgid "U-Project"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:193
+msgid "U-Project Categories"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:194
+msgid "U-Project Category"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:65
+msgid "U-Project Setting Page"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:65
+msgid "U-Project Settings"
+msgstr ""
+
+#. Name of the theme
+msgid "university"
+msgstr ""
+
+#: plugins/u-course/widget/latest-course.php:7
+#: plugins/u-course/widget/latest-course.php:9
+msgid "University - Courses Listing "
+msgstr ""
+
+#: plugins/u-course/widget/course-search.php:7
+#: plugins/u-course/widget/course-search.php:9
+msgid "University - Courses Search "
+msgstr ""
+
+#: plugins/u-event/widget/latest-event.php:7
+#: plugins/u-event/widget/latest-event.php:9
+#: plugins/u-projects/widget/latest-event.php:7
+#: plugins/u-projects/widget/latest-event.php:9
+msgid "University - Events Listing "
+msgstr ""
+
+#: inc/widgets/latest-post-type.php:21
+msgid "University - Latest Posts "
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/button.php:50
+msgid "University Button"
+msgstr ""
+
+#: functions.php:949
+#: functions.php:959
+#: plugins/u-event/u-event.php:18
+#: plugins/u-shortcodes/shortcodes/calendar.php:258
+msgid "Upcoming"
+msgstr ""
+
+#: u-member/member-course.php:210
+msgid "Upcoming Courses"
+msgstr ""
+
+#: u-member/member-course.php:36
+msgid "Upcoming Events"
+msgstr ""
+
+#: inc/theme-options.php:371
+msgid "Upload Custom Font 1"
+msgstr ""
+
+#: inc/theme-options.php:384
+msgid "Upload Custom Font 2"
+msgstr ""
+
+#: inc/theme-options.php:182
+msgid "Upload your Admin Login logo image"
+msgstr ""
+
+#: inc/theme-options.php:158
+msgid "Upload your logo image"
+msgstr ""
+
+#: inc/theme-options.php:523
+msgid "Upload your logo image for sticky menu"
+msgstr ""
+
+#: inc/theme-options.php:372
+msgid ""
+"Upload your own font and enter name \"custom-font-1\" in \"Main Font "
+"Family\" or \"Heading Font Family\" setting above"
+msgstr ""
+
+#: inc/theme-options.php:385
+msgid ""
+"Upload your own font and enter name \"custom-font-2\" in \"Main Font "
+"Family\" or \"Heading Font Family\" setting above"
+msgstr ""
+
+#: inc/theme-options.php:937
+msgid "URL"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:174
+msgid "URL of the video"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:192
+msgid "URL Target"
+msgstr ""
+
+#: inc/theme-options.php:515
+msgid "Use Logo"
+msgstr ""
+
+#: inc/theme-options.php:1078
+msgid "Use once product for each event or course"
+msgstr ""
+
+#: functions.php:345
+msgid "Used in Front Page templates only"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:167
+msgid "Value of opacity layer when hovering, from 0 to 0.99"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:160
+msgid "Value of opacity layer, from 0 to 0.99"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:106
+msgid "Video Banner"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/video-link.php:171
+msgid "Video URL"
+msgstr ""
+
+#: inc/core/theme-core.php:497
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: header-navigation.php:39
+#: page-templates/demo-nav-3.php:145
+msgid "View Cart"
+msgstr ""
+
+#: content-featured-image.php:26
+#: loop-item-thumbnail.php:85
+#: u-course/course-listing.php:115
+#: u-project/project-listing.php:121
+#: u-project/single-project.php:45
+#: u-project/single-project.php:326
+#: plugins/u-course/templates/course-listing.php:57
+#: plugins/u-shortcodes/shortcodes/blog.php:182
+#: plugins/u-shortcodes/shortcodes/post-grid.php:256
+#: plugins/u-shortcodes/shortcodes/post-grid.php:282
+msgid "View comments"
+msgstr ""
+
+#: plugins/u-course/u-course.php:317
+msgid "View Course"
+msgstr ""
+
+#: plugins/u-event/u-event.php:325
+msgid "View Event"
+msgstr ""
+
+#: u-course/single-course-detail.php:35
+#: u-event/single-event-detail.php:70
+#: plugins/u-course/templates/single-course-detail.php:34
+#: plugins/u-event/templates/single-event-detail.php:65
+msgid "View map"
+msgstr ""
+
+#: plugins/u-member/u-member.php:238
+msgid "View Member"
+msgstr ""
+
+#: plugins/u-projects/u-projects.php:158
+msgid "View Project"
+msgstr ""
+
+#: inc/page-metadata.php:225
+#: plugins/u-shortcodes/shortcodes/post-carousel.php:248
+msgid "Visible items"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/blog.php:19
+msgid "VISIT BLOG"
+msgstr ""
+
+#: inc/theme-options.php:906
+msgid "VK"
+msgstr ""
+
+#: inc/theme-options.php:1041
+msgid "VK Share"
+msgstr ""
+
+#: plugins/u-member/u-member.php:410
+msgid "VK:"
+msgstr ""
+
+#: u-event/single-event-detail.php:148
+#: inc/core/theme-core.php:281
+#: plugins/u-event/templates/single-event-detail.php:88
+msgid "Website"
+msgstr ""
+
+#: plugins/u-event/u-event.php:513
+msgid "Website URL of event"
+msgstr ""
+
+#: plugins/u-event/u-event.php:513
+msgid "Website:"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/calendar.php:69
+msgid "Wed"
+msgstr ""
+
+#: u-member/member-course.php:356
+msgid "Week"
+msgstr ""
+
+#: u-member/member-course.php:358
+msgid "Weeks"
+msgstr ""
+
+#: inc/core/theme-core.php:725
+msgid "Widget width"
+msgstr ""
+
+#: plugins/u-member/member-shortcode.php:193
+#: plugins/u-shortcodes/shortcodes/video-link.php:136
+msgid "Width"
+msgstr ""
+
+#: plugins/u-member/member-shortcode.php:200
+msgid "Width of each member item box - select (default is 3)"
+msgstr ""
+
+#: inc/theme-options.php:59
+msgid "WooCommerce"
+msgstr ""
+
+#: functions.php:402
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: footer.php:49
+msgid "WordPress Theme by (C) CactusThemes"
+msgstr ""
+
+#: u-member/member-course.php:376
+#: plugins/u-shortcodes/shortcodes/calendar.php:224
+msgid "Year"
+msgstr ""
+
+#: plugins/u-shortcodes/shortcodes/countdown_clock.php:86
+msgid "Year:"
+msgstr ""
+
+#: u-member/member-course.php:378
+msgid "Years"
+msgstr ""
+
+#: functions.php:708
+#: plugins/u-member/member-shortcode.php:261
+#: plugins/u-shortcodes/shortcodes/button.php:110
+#: plugins/u-shortcodes/shortcodes/button.php:122
+#: plugins/u-shortcodes/shortcodes/countdown_clock.php:134
+#: plugins/u-shortcodes/shortcodes/post-grid.php:367
+#: plugins/u-shortcodes/shortcodes/post-grid.php:541
+#: plugins/u-shortcodes/shortcodes/testimonial.php:81
+#: plugins/u-shortcodes/shortcodes/video-link.php:183
+msgid "Yes"
+msgstr ""
+
+#: inc/core/theme-core.php:298
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:28
+msgid "Your comment ..."
+msgstr ""
+
+#: inc/core/theme-core.php:210
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Your Email"
+msgstr ""
+
+#: inc/core/theme-core.php:248
+msgid "Your Email *"
+msgstr ""
+
+#: inc/core/theme-core.php:300
+msgid "Your email address will not be published."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Your Message"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Your Name"
+msgstr ""
+
+#: inc/core/theme-core.php:247
+msgid "Your Name *"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Your Reviews"
+msgstr ""
+
+#: inc/core/theme-core.php:249
+msgid "Your Website"
+msgstr ""
+
+#: inc/theme-options.php:880
+msgid "Youtube"
+msgstr ""
+
+#: plugins/u-member/u-member.php:406
+msgid "YouTube:"
+msgstr ""
+
+#: inc/theme-options.php:273
+msgid "YYYY/DD/MM"
+msgstr ""
+
+#: inc/theme-options.php:268
+msgid "YYYY/MM/DD"
+msgstr ""
